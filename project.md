@@ -1,8 +1,8 @@
 # SciPy LA 2016
 
-SciPy Latin America 2016, a quarta conferência anual de Computação Científica com Python, será realizada nos dias 25, 26 e 27 de maio de 2016, em Florianópolis / Brasil. SciPy é uma comunidade dedicada ao avanço da computação científica através de softwares open source em Python para matemática, ciências e engenharia.
+SciPy Latin America 2016, a quarta conferência anual de Computação Científica com Python, será realizada nos dias 25, 26 e 27 de maio de 2016, em Florianópolis / Brasil. SciPy é uma comunidade dedicada ao avanço da computação científica através de softwares open source em Python para, mas não limitado a, Ciências Exatas, Biológicas, Humanas, e da Terra.
 
-A conferência SciPy LA é focada em aplicações científicas/numéricas/matemáticas/de engenharias/e afins que utilizam Python, seguindo o exemplo de outras conferências regionais de mesmo tema que ocorrem na Europa (EuroSciPy) e Índia (SciPy India). Esse encontro sucede 3 outros encontros de mesma temática ocorridos na Argentina em 2013, 2014 e 2015.
+A conferência SciPy LA é focada em aplicações científicas e afins que utilizam Python, seguindo o exemplo de outras conferências regionais de mesmo tema que ocorrem na Europa (EuroSciPy) e Índia (SciPy India). Esse encontro sucede 3 outros encontros de mesma temática ocorridos na Argentina em 2013, 2014 e 2015.
 
 ## Justificativa
 No cenário atual da produção científica, nota-se presente cada vez mais o desenvolvimento de algoritmos para a resolução de problemas, não somente da área de sistemas ou computação. Os problemas enfrentados pelas empresas também estão cada vez mais complexos, fazendo necessário o uso de novas técnicas e algoritmos, muitas vezes recém desenvolvidos/propostos por pesquisadores. A conferência SciPy Latin America faz-se então importante para a disseminação de conhecimentos científicos acerca da aplicação de métodos científicos através da tecnologia Python.
