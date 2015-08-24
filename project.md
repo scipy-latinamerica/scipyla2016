@@ -2,10 +2,10 @@
 
 SciPy Latin America 2016, a quarta conferência anual de Computação Científica com Python, será realizada nos dias 25, 26 e 27 de maio de 2016, em Florianópolis / Brasil. SciPy é uma comunidade dedicada ao avanço da computação científica através de softwares open source em Python para matemática, ciências e engenharia.
 
-A conferência SciPy LA é focada em aplicações científicas/numéricas/matemáticas/de engenharias/e afins que utilizam Python, seguindo o exemplo de outras conferências regionais de mesmo tema que ocorrem na Europa (EuroSciPy) e Índia (SciPy India). Esse encontro suscede 3 outros encontros de mesma temática ocorridos na Argentina em 2013, 2014 e 2015.
+A conferência SciPy LA é focada em aplicações científicas/numéricas/matemáticas/de engenharias/e afins que utilizam Python, seguindo o exemplo de outras conferências regionais de mesmo tema que ocorrem na Europa (EuroSciPy) e Índia (SciPy India). Esse encontro sucede 3 outros encontros de mesma temática ocorridos na Argentina em 2013, 2014 e 2015.
 
 ## Justificativa
-No cenário atual da produção científica, nota-se presente cada vez mais o desenvolvimento de algoritmos para a resolução de problemas, não somente da área de sistemas ou computação. Os problemas enfrentados pelas empresas também estão cada vez mais complexos, fazendo necessário o uso de novas ténicas y algoritmos, muitas vezes recém desenvolvidos/propostos por pesquisadores. A conferência SciPy Latin America faz-se então importante para a disseminação de conhecimentos científicos acerca da aplicação de métodos científicos através da tecnología Python.
+No cenário atual da produção científica, nota-se presente cada vez mais o desenvolvimento de algoritmos para a resolução de problemas, não somente da área de sistemas ou computação. Os problemas enfrentados pelas empresas também estão cada vez mais complexos, fazendo necessário o uso de novas técnicas y algoritmos, muitas vezes recém desenvolvidos/propostos por pesquisadores. A conferência SciPy Latin America faz-se então importante para a disseminação de conhecimentos científicos acerca da aplicação de métodos científicos através da tecnologia Python.
 
 ## Objetivo
 O intuito da conferência SciPy Latin America 2016 é reunir pesquisadores e desenvolvedores e aproximar os estudantes às tecnologias que estão sendo desenvolvidas, ou em uso, para a resolução de problemas de cunho científicos, que também podem ser problemas enfrentados pelas empresas no seu dia a dia.
@@ -17,7 +17,7 @@ Após a avaliação dos trabalhos, os avaliadores deverão retornar um parecer a
 
 Haverão apresentações tanto para iniciantes quanto para usuários mais avançados sobre tópicos específicos, bem como minicursos.
 
-Poderá ocorrer antes da realização do evento o "Pré-Evento", este ocorrerá nos dias antecendentes ao evento com o propósito de enriquecer o conteúdo programático da conferência. As apresentações do pré-evento não emitirá certificados aos participantes pois terá como objetivo apenas agregar valor às apresentações.
+Poderá ocorrer antes da realização do evento o "Pré-Evento", este ocorrerá nos dias antecedentes ao evento com o propósito de enriquecer o conteúdo programático da conferência. As apresentações do pré-evento não emitirá certificados aos participantes pois terá como objetivo apenas agregar valor às apresentações.
 
 ### Modalidades de apresentação
 
@@ -60,7 +60,7 @@ Espera-se um número máximo de 200 pessoas para o evento.
 A programação será definida de acordo com as propostas de trabalhos recebidas e será divulgada dentro do prazo estabelecido.
 
 ## Comitê de Revisão de trabalhos
-A comitê de revisão de trabalhos está formada incialmente pelos colaboradores:
+A comitê de revisão de trabalhos está formada inicialmente pelos colaboradores:
 
 - Ivan Ogassavara;
 - Raniere Gaia Costa da Silva.
@@ -80,10 +80,10 @@ Para a realização do evento, serão necessários alguns itens de infraestrutur
 
 - 1 sala com capacidade de 200 pessoas, para o uso principal das atividades;
 - 1 sala com capacidade de 50 pessoas, para atividades paralelas às apresentações principais;
-- Cada sala deverá conter 1 telão com recursos para reprodução de audio e gravação das apresentações;
-- Internet wifi para os participantes.
+- Cada sala deverá conter 1 telão com recursos para reprodução de áudio e gravação das apresentações;
+- Internet WiFi para os participantes.
 
-A parte da infraestrutura necessária para a realização do evento, será oferecido dois coffe-break diários, um pela manhã e outro no horário da tarde.
+A parte da infraestrutura necessária para a realização do evento, será oferecido dois coffee-break diários, um pela manhã e outro no horário da tarde.
 
 ## Local
 
