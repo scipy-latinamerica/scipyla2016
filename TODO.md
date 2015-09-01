@@ -13,7 +13,7 @@
 
 ## Redaction Task (english language)
 - [X] Code of conduct (copied from SciPy 2015)
-- [ ] Call for Papers (?);
+- [ ] Call for Papers (Horacio);
 - [ ] Call for Sedes (?);
 - [ ] Hotel (?);
 - [ ] Florianópolis Tourism (?);
