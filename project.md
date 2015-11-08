@@ -66,6 +66,7 @@ A programação será definida de acordo com as propostas de trabalhos recebidas
 ## Comitê de Revisão de trabalhos
 A comitê de revisão de trabalhos está formada inicialmente pelos colaboradores:
 
+* Filipe Pires Alvarenga Fernandes
 * Ivan Ogassavara;
 * Raniere Gaia Costa da Silva;
 
@@ -86,8 +87,6 @@ Para a realização do evento, serão necessários alguns itens de infraestrutur
 * 1 sala com capacidade de 50 pessoas, para atividades paralelas às apresentações principais;
 * Cada sala deverá conter 1 telão com recursos para reprodução de áudio e gravação das apresentações;
 * Internet WiFi para os participantes.
-
-A parte da infraestrutura necessária para a realização do evento, será oferecido dois coffee-break diários, um pela manhã e outro no horário da tarde.
 
 ## Local
 
