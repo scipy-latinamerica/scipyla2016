@@ -66,8 +66,11 @@ A programação será definida de acordo com as propostas de trabalhos recebidas
 ## Comitê de Revisão de trabalhos
 A comitê de revisão de trabalhos está formada inicialmente pelos colaboradores:
 
-* Filipe Pires Alvarenga Fernandes
+* Filipe Pires Alvarenga Fernandes;
 * Ivan Ogassavara;
+* João Felipe Nicolaci Pimentel;
+* Mário Sérgio Oliveira de Queiroz;
+* Melissa Weber Mendonça;
 * Raniere Gaia Costa da Silva;
 
 Essa lista poderá sofrer alteração durante o decorrer da organização do evento.
