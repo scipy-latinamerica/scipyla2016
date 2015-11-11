@@ -28,7 +28,7 @@ Um "Pós-Evento" poderá também ocorrer após a realização do evento principa
 Haverá 4 modalidades de apresentação de trabalhos:
 
 * Palestras;
-* Posteres;
+* Pôsteres;
 * Tutoriais;
 * Palestras relâmpago.
 
@@ -66,10 +66,13 @@ A programação será definida de acordo com as propostas de trabalhos recebidas
 ## Comitê de Revisão de trabalhos
 A comitê de revisão de trabalhos está formada inicialmente pelos colaboradores:
 
+* Antonio Kanaan;
 * Filipe Pires Alvarenga Fernandes;
+* Horacio Andres Vargas Guzmán;
 * Ivan Ogassavara;
 * João Felipe Nicolaci Pimentel;
 * Mário Sérgio Oliveira de Queiroz;
+* Matheus Braun Magrin;
 * Melissa Weber Mendonça;
 * Raniere Gaia Costa da Silva;
 
