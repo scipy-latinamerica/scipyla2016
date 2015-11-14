@@ -67,6 +67,7 @@ A programação será definida de acordo com as propostas de trabalhos recebidas
 A comitê de revisão de trabalhos está formada inicialmente pelos colaboradores:
 
 * Antonio Kanaan;
+* Bruno Orlando Sanchez;
 * Filipe Pires Alvarenga Fernandes;
 * Horacio Andres Vargas Guzmán;
 * Ivan Ogassavara;
