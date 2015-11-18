@@ -68,6 +68,7 @@ A comitê de revisão de trabalhos está formada inicialmente pelos colaboradore
 
 * Antonio Kanaan;
 * Bruno Orlando Sanchez;
+* Filipe de Oliveira Saraiva;
 * Filipe Pires Alvarenga Fernandes;
 * Horacio Andres Vargas Guzmán;
 * Ivan Ogassavara;
