@@ -30,7 +30,8 @@ Haverá 4 modalidades de apresentação de trabalhos:
 * Palestras;
 * Pôsteres;
 * Tutoriais;
-* Palestras relâmpago.
+* Palestras relâmpago;
+* Track Teen.
 
 #### Palestras
 São as tradicionais palestras oferecidas nos dias principais da conferência. Possuem duração máxima de 30 minutos com 5 minutos para perguntas. Se você acredita que possui um tema mas não sabe como escrever a proposta, contate nosso comitê de atividades e iremos lhe ajudar nessa tarefa. Adoraremos ajudá-lo a submeter uma ótima proposta.
@@ -43,6 +44,12 @@ A sessão de pôsteres oferece uma apresentação mais interativa e direcionada 
 
 #### Palestras relâmpago
 Deseja dar uma palestra, mas não tem material suficiente para uma? Essas palestras são de, no máximo, 5 minutos em uma sequência de palestras similares no salão principal. Não é preciso preencher todo os tempo disponível. A inscrição dessa modalidade será realizada durante o evento até última apresentação do dia.
+
+
+#### Track Teen
+O Track Teen é uma jornada que tem como propósito introduzir a um público de grande potencial criativo (como crianças e adolescentes) o mundo da ciência, programação e qualquer área que pode contribuir para o seu criativo, através de um ensino e diversão de maneira interativa.
+
+Um dos objetivos desta conferência é mostrar às crianças que a ciência e a programação são realizadas por pessoas semelhantes a elas. Ambos estão presentes no uso diário de qualquer pessoa e a única coisa necessária é o anseio por aprender e implementar essas idéias que surgem em suas mentes. Sendo possível tornar-se geradores de idéias que podem ser úteis a outros.
 
 ## Público alvo
 O público esperado é composto de estudantes e pesquisadores de universidades e empresas que utilizam ou tem interesse em utilizar Python em suas atividades.
