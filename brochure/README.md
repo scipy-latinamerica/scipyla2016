@@ -10,4 +10,22 @@
 
     Contains images used on the brochures.
 
+## Compilation dependencies
+
+-   LaTeX
+
 ## Compilation steps
+
+### GNU/Linux and (Mac) OS X
+
+~~~
+$ latexmk -pdf template.tex
+~~~
+
+### Windows
+
+~~~
+$ pdflatex.exe template.tex
+$ pdflatex.exe template.tex
+$ pdflatex.exe template.tex
+~~~
