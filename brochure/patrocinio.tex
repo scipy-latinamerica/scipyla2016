@@ -1,4 +1,8 @@
-\documentclass[report,a4paper,twocolumn]{memoir}
+% Padrão: false
+\newif\ifprint
+%\printtrue
+%
+\documentclass[a4paper,twocolumn,openright,article]{memoir}
 \usepackage[portuguese]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{hyperref}
@@ -7,46 +11,12 @@
 \usepackage[all]{hypcap}
 \usepackage{geometry}
 \usepackage{arevtext,arevmath}
-% \usepackage{latexsym}
-% \usepackage{enumitem}
-% \usepackage{remreset}
-% \usepackage{multirow}
-% \usepackage{lscape}
-% \usepackage{booktabs}
-
+\usepackage{multirow}
 \usepackage{tikz}
-% Define box and box title style
-%\tikzstyle{mybox} = [draw, very thick, rectangle,rounded corners, inner sep=10pt, inner ysep=20pt]
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% \usetikzlibrary{matrix}
-% \usetikzlibrary{positioning}
-% % % Fixing delimiter size for tikz matrices
-% % \makeatletter
-% % \def\tikz@delimiter#1#2#3#4#5#6#7#8{%
-% %   \bgroup
-% %   \pgfextra{\let\tikz@save@last@fig@name=\tikz@last@fig@name}%
-% %   node[outer sep=0pt,inner sep=0pt,draw=none,fill=none,anchor=#1,at=(\tikz@last@fig@name.#2),#3]
-% %   {%
-% %     {\nullfont\pgf@process{\pgfpointdiff{\pgfpointanchor{\tikz@last@fig@name}{#4}}{\pgfpointanchor{\tikz@last@fig@name}{#5}}}}%
-% %     \delimitershortfall\z@% as suggested by morbusg (maximum space not covered by a delimiter = 0)
-% %     \resizebox*{!}{#8}{$\left#6\vcenter{\hrule height .5#8 depth .5#8 width0pt}\right#7$}%
-% %   }
-% %   \pgfextra{\global\let\tikz@last@fig@name=\tikz@save@last@fig@name}%
-% %   \egroup%
-% % }
-% % \makeatother
-% % \tikzset{
-% %   withbrackets/.style = {draw, outer sep=0pt,
-% %     left delimiter=[, right delimiter=],
-% %     align=center}
-% % }
-
-% % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \renewcommand{\familydefault}{\sfdefault} 
-
 %\title{4\textordfeminine\ Conferência\\Latino Americana de\\Computação Científica e Python}
-
 \titleformat{\chapter}[display]
 {\bfseries\LARGE\sffamily}{\chaptertitlename}{10pt}{\LARGE}
 \titlespacing*{\chapter}{0pt}{10pt}{10pt}
@@ -57,9 +27,24 @@
 \newgeometry{left=0cm, bottom=0cm, top=0cm, right=0cm}
 \thispagestyle{empty}
 \onecolumn
-\begin{center}
-  \includegraphics{imagens/capa.jpg}
-\end{center}
+\ifprint
+	\begin{center}
+		\begin{tikzpicture}[remember picture, overlay]
+    		\node[anchor=east] at (9,-5) {\fontsize{30}{30}\selectfont 4a. Conferência};
+            \node[anchor=east] at (9,-6.3) {\fontsize{30}{30}\selectfont Latino Americana de};
+            \node[anchor=east] at (9,-7.6) {\fontsize{30}{30}\selectfont Computação Científica e Python};
+    		\draw[rectangle, fill] (-8,-3) -- (9,-3) -- (4,-3.1) -- (-3,-3.1);
+            \draw[rectangle, fill] (-8,-9.6) -- (9,-9.6) -- (4,-9.7) -- (-3,-9.7);
+    		\node at (current page.center) {\begin{minipage}{\textwidth}\centering \fontsize{20}{20}\selectfont Maio de 2016 \textendash\ Florianópolis \textendash\ SC\\\centering Brasil\end{minipage}};
+		    \draw[rectangle, fill] (-10.8,-25.5) -- (10.75,-25.5) -- (10.75,-27.55) -- (-10.8,-27.55);
+		    \node[color=white] at (-0.5,-26.6) {\fontsize{20}{30}\selectfont \textbf{conf.scipyla.org}};
+		\end{tikzpicture}
+	\end{center}
+\else
+	\begin{center}
+  		\includegraphics{imagens/capa.jpg}
+	\end{center}
+\fi
 \twocolumn
 
 \clearpage
@@ -67,9 +52,10 @@
 \restoregeometry
 \pagestyle{plain} % No headers, just page numbers
 \setcounter{page}{2}
-\tableofcontents
+\tableofcontents*
 
 \chapter*{Apresentação}
+\addcontentsline{toc}{chapter}{Apresentação}
 
 SciPy Latin America 2016, a quarta conferência anual de Computação Científica com Python, será realizada nos dias 25, 26 e 27 de maio de 2016, em Florianópolis / Brasil.
 
@@ -90,11 +76,15 @@ um considerável investimento que é normalmente financiado com o aporte de inst
 
 O êxito desta conferência é muito importante para a comunidade educacional, científica e industrial, e todos os demais influenciados por estas.
 
-\begin{center}
-\includegraphics[width=6cm]{imagens/IMG_20150521_102157-small.jpg}
-\end{center}
+\ifprint
+\else
+	\begin{center}
+		\includegraphics[width=6cm]{imagens/IMG_20150521_102157-small.jpg}
+	\end{center}
+\fi
 
 \chapter*{Metodologia}
+\addcontentsline{toc}{chapter}{Metodologia}
 
 A conferência será voltada para a divulgação de ferramentas e/ou projetos realizados com Python no ambiente científico, acadêmico e industrial, e seus principais objetivos incluem:
 \begin{itemize}
@@ -120,11 +110,15 @@ O comitê organizador local está constituído pelos seguintes membros:
 \item Raniere Gaia Costa da Silva;
 \end{itemize}
 
-\begin{center}
-\includegraphics[width=6cm]{imagens/IMG_20150521_102919-small.jpg}
-\end{center}
+\ifprint
+\else
+	\begin{center}
+		\includegraphics[width=6cm]{imagens/IMG_20150521_102919-small.jpg}
+	\end{center}
+\fi
 
 \chapter*{Modalidades de apresentação}
+\addcontentsline{toc}{chapter}{Modalidades de apresentação}
 
 Haverá 
 %4
@@ -164,11 +158,15 @@ O Track Teen é uma jornada que tem como propósito introduzir a um público de 
 
 Um dos objetivos desta conferência é mostrar às crianças que a ciência e a programação são realizadas por pessoas semelhantes a elas. Ambos estão presentes no uso diário de qualquer pessoa e a única coisa necessária é o anseio por aprender e implementar essas idéias que surgem em suas mentes. Sendo possível tornar-se geradores de idéias que podem ser úteis a outros.
 
-\begin{center}
-\includegraphics[width=6cm]{imagens/CFc8POiWYAEcPAV-small.jpg}
-\end{center}
+\ifprint
+\else	
+	\begin{center}
+		\includegraphics[width=6cm]{imagens/CFc8POiWYAEcPAV-small.jpg}
+	\end{center}
+\fi
 
 \chapter*{Público Alvo}
+\addcontentsline{toc}{chapter}{Público Alvo}
 
 O público esperado é composto de estudantes e pesquisadores de universidades e empresas que utilizam ou tem interesse em utilizar Python em suas atividades. Espera-se um número máximo de 200 pessoas para o evento.
 
@@ -176,7 +174,8 @@ O público esperado é composto de estudantes e pesquisadores de universidades e
 \begin{tabular}{l c}
 \bfseries{Público} & \bfseries{Esperado} \\\toprule
 Professores/Pesquisadores & 50\\
-Professores de Educação básica & 20\\
+Professores de & \multirow{2}{*}{20}\\
+Educação básica & \\
 Alunos de Pós-Graduação & 30\\
 Alunos de Graduação & 60\\
 Profissionais & 40\\
@@ -184,11 +183,15 @@ Outros (discriminar) & 0\\\bottomrule
 \end{tabular}
 \end{center}
 
-\begin{center}
-\includegraphics[width=6cm]{imagens/CFlOZY5WYAETG6-small.jpg}
-\end{center}
+\ifprint
+\else
+	\begin{center}
+		\includegraphics[width=6cm]{imagens/CFlOZY5WYAETG6-small.jpg}
+	\end{center}
+\fi
 
 \chapter*{Cronograma Previsto}
+\addcontentsline{toc}{chapter}{Cronograma Previsto}
 
 As datas importantes do evento são listadas a seguir:
 \begin{itemize}
@@ -201,7 +204,10 @@ tutoriais.
 \item 28-29 de Maio de 2016: Pós-Evento
 \end{itemize}
 
-\chapter*{Coordenação Geral da Conferência SciPy Latin America 2016}
+\eject
+\onecolumn
+\chapter*{Coordenação Geral da Conferência \\SciPy Latin America 2016}
+\addcontentsline{toc}{chapter}{Coordenação Geral}
 
 \begin{tabular}{l}
 \bfseries{Coordenador}\\
