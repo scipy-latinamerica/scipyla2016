@@ -1,0 +1,33 @@
+**Contact international communities to support the conference**.
+
+- [ ] Argentina
+- [ ] Bolivia
+- Brasil
+  - [x] Python Brasil 2015 (lightning talk) by @sergiomario
+- Chile
+  - [x] pythonchile (groups.google.com/forum/#!forum/pythonchile) by @xmnlab 
+- Colombia
+  - [x] pyco (groups.google.com/forum/#!forum/pyco) by @xmnlab 
+- Costa Rica
+  - [x] PythonCostaRica (www.facebook.com/PythonCostaRica) by @xmnlab 
+- [ ] Cuba
+- [ ] Ecuador
+- [ ] El Salvador
+- [ ] Guatemala
+- [ ] Haiti
+- [ ] Honduras
+- México
+  - [x] pymt (groups.google.com/forum/#!forum/pymty) by @xmnlab 
+  - [x] pythoncabal (groups.google.com/forum/#!forum/pythoncabal) by @xmnlab 
+  - [x] pythonmexico (mx.groups.yahoo.com/neo/groups/pythonmexico) by @xmnlab 
+- Nicaragua
+  - [x] pythonicaragua (www.facebook.com/pythonicaragua) by @xmnlab 
+- Panamá
+  - [x] Panamá´s Python Meetup Group (www.meetup.com/es/Panama-Python-Meetup/) by @xmnlab 
+- [ ] Paraguay
+- Perú
+  - [x] python-peru (https://groups.google.com/forum/#!forum/python-peru) by @xmnlab 
+- [ ] República Dominicana
+- [ ] Uruguay
+- Venezuela
+  - [x] python-venezuela (https://groups.google.com/forum/#!forum/python-venezuela) by @xmnlab 
