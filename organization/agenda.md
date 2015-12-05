@@ -15,16 +15,16 @@
 ## Institucional
 
 * 31 de Dezembro de 2015: Aprovação do projeto de extensão na UFSC;
-* 31 de Dezembro de 2015: Término de envío de chamada para as principais comunidades Python da América Latina;
-* 31 de Janeiro de 2016: Término de envío de convite para as principais universidades da América Latina;
+* 31 de Dezembro de 2015: Término de envio de chamada para as principais comunidades Python da América Latina;
+* 31 de Janeiro de 2016: Término de envio de convite para as principais universidades da América Latina;
 
 ## Atividades periódicas
 
-* Contato "pós-inscrição": a cada 2 semanas. Esse contato servirá para verificar se o participante já tem acomodação reservada e as passagens compradas e, se necessário, ajudá-lo com orientações para essas ativiades.
+* Contato "pós-inscrição": a cada 2 semanas. Esse contato servirá para verificar se o participante já tem acomodação reservada e as passagens compradas e, se necessário, ajudá-lo com orientações para essas atividades.
 
 ## Financeiro
 
-* 21 de Dezembro de 2015: Início de envío de pedidos de patrocínio;
+* 21 de Dezembro de 2015: Início de envio de pedidos de patrocínio;
 * ?: Levantamento de custos;
 
 ## Comunicação
@@ -41,15 +41,15 @@
 
 ### Atividades periódicas
 
-* Envío de avisos da conferência: 1 semana antes de cada evento;
-* Envío de newsletter: a cada 2 semanas, a partir de 31 de Janeiro. Contém informações de: 
+* Envio de avisos da conferência: 1 semana antes de cada evento;
+* Envio de newsletter: a cada 2 semanas, a partir de 31 de Janeiro. Contém informações de: 
   - Patrocinadores;
   - Pontos turísticos;
   - Opções hoteleiras;
   - Contatos para caravanas;
 
 
-## Trilha Jovem Cientístia
+## Trilha Jovem Cientista
 
 * ? : Definição de atividades;
 * ? : Definição de recursos;
