@@ -2,7 +2,7 @@
 
 Palavras chaves: Computação Científica; Python; SciPy; PyData; Visualização de Dados; Ciência de Dados; NumPy; matplotlib; Pandas; Bokeh;
 
-SciPy Latin America 2016, a quarta conferência anual de Computação Científica com Python, será realizada nos dias 25, 26 e 27 de maio de 2016, em Florianópolis / Brasil. SciPy é uma comunidade dedicada ao avanço da computação científica através de softwares open source em Python para, mas não limitado a, Ciências Exatas, Biológicas, Humanas, e da Terra.
+SciPy Latin America 2016, a quarta conferência anual de Computação Científica com Python, será realizada nos dias 18, 19 e 20 de maio de 2016, em Florianópolis / Brasil. Nos dias 16 e 17, haverá o pré-evento, com tutoriais/oficinas voltados para o público iniciante e também avançado. SciPy é uma comunidade dedicada ao avanço da computação científica através de softwares open source em Python para, mas não limitado a, Ciências Exatas, Biológicas, Humanas, e da Terra.
 
 A conferência SciPy Latin America é focada em aplicações científicas e afins que utilizam Python, seguindo o exemplo de outras conferências regionais de mesmo tema que ocorrem na Europa (EuroSciPy), Índia (SciPy India) e Estados Unidos (SciPy). Esse encontro sucede 3 outros encontros de mesma temática ocorridos na Argentina em 2013, 2014 e 2015.
 
@@ -19,9 +19,7 @@ Após a avaliação dos trabalhos, os avaliadores deverão retornar um parecer a
 
 Haverão apresentações tanto para iniciantes quanto para usuários mais avançados sobre tópicos específicos, bem como minicursos.
 
-Poderá ocorrer antes da realização do evento o "Pré-Evento", este ocorrerá nos dias antecedentes ao evento com o propósito de enriquecer o conteúdo programático da conferência. As apresentações do pré-evento não emitirá certificados aos participantes pois terá como objetivo apenas agregar valor às apresentações.
-
-Um "Pós-Evento" poderá também ocorrer após a realização do evento principal; este ocorrerá nos dias seguintes ao evento com o propósito dos participantes poderem trabalhar nos projetos apresentados durante a conferência. As apresentações no pós-evento não darão direito à certificados aos participantes, pois terá como objetivo apenas agregar valor aos projetos participantes.
+Irá ocorrer antes da realização do evento o "Pré-Evento", este ocorrerá nos dias antecedentes ao evento com o propósito de enriquecer o conteúdo programático da conferência. As apresentações do pré-evento não emitirá certificados aos participantes pois terá como objetivo apenas agregar valor às apresentações.p
 
 ### Modalidades de apresentação
 
@@ -54,7 +52,7 @@ Um dos objetivos desta conferência é mostrar às crianças que a ciência e a 
 ## Público alvo
 O público esperado é composto de estudantes e pesquisadores de universidades e empresas que utilizam ou tem interesse em utilizar Python em suas atividades.
 
-Espera-se um número máximo de 200 pessoas para o evento.
+Espera-se um número máximo de 200 pessoas para o evento*.
 
 | Público                        | Esperado |
 | :----------------------------- | :------- |
@@ -65,7 +63,7 @@ Espera-se um número máximo de 200 pessoas para o evento.
 | Profissionais                  |    40    |
 | Outros (discriminar)           |     0    |
 
-
+* Para o pré-evento espera-se um número máximo de 50 pessoas, totalizando um público 250.
 
 ## Programação
 A programação será definida de acordo com as propostas de trabalhos recebidas e será divulgada dentro do prazo estabelecido.
@@ -109,11 +107,9 @@ O evento será realizado na cidade de Florianópolis, ainda sem local definido.
 
 ## Data Prevista
 
-O evento está previsto para acontecer nos dias 25, 26 e 27 de maio de 2016 e deverá acontecer de 9:30 a 13:00 e 14:30 a 19:30.
+O evento está previsto para acontecer nos dias 18, 19 e 20 de maio de 2016 e deverá acontecer de 9:30 a 13:00 e 14:30 a 19:30 (os horários poderão sofrer alterações).
 
-O pré-evento acontecerá nos dias 23 e 24 de maio de 2016 de 19:00 a 21:00. Dependendo da disponibilidade, as atividades poderão ser agendados em outros horários também.
-
-O pós-evento acontecerá nos dias 28 e 29 de maio de 2016 de 9:00 a 17:00. Este horário dependerá das atividades que forem agendadas.
+O pré-evento acontecerá nos dias 23 e 24 de maio de 2016 de 9:00 a 21:00 (os horários poderão sofrer alterações).
 
 ## Cronograma
 
@@ -121,11 +117,10 @@ As datas importantes do evento são listadas a seguir:
 
 * 8 de Abril de 2016: Prazo final para submissão de palestras, pôsteres e tutoriais.
 * 22 de Abril de 2016: Notificação de aceite para palestras, pôsteres e tutoriais.
-* 23-24 de Maio de 2016: Pré-Evento
-* 25-27 de Maio de 2016: SciPy Latino-América 2016.
-* 28-29 de Maio de 2016: Pós-Evento
+* 16-17 de Maio de 2016: Pré-Evento
+* 18-20 de Maio de 2016: SciPy Latino-América 2016.
 
 ## Auxílio financeiro
-SciPy América Latina tem um programa de auxílio financeiro, fornecendo fundos para ajudar os participantes (docentes, estudantes e assistentes) para a SciPy América Latina 2016. Para os beneficiários do auxílio financeiro, será coberto apenas parte de suas despesas. Encorajamos todos que necessitam de solicitar o auxílio. Vamos tentar nosso melhor para atribuir o máximo possível do nosso orçamento para aquelas pessoas que realmente precisam de ajuda financeira, dependendo da arrecadação através dos patrocinadores.
+SciPy América Latina tem um programa de auxílio financeiro, fornecendo fundos para ajudar os participantes (docentes, estudantes e assistentes) para a SciPy América Latina 2016. Para os beneficiários do auxílio financeiro, será coberto apenas parte de suas despesas. Encorajamos a todos que o necessitem a solicitar o auxílio. Vamos tentar nosso melhor para atribuir o máximo possível do nosso orçamento para aquelas pessoas que realmente precisam de ajuda financeira, dependendo da arrecadação através dos patrocinadores.
 
 Para solicitar auxílio financeiro, o candidato deverá fazê-lo através do sistema de inscrição do evento.
