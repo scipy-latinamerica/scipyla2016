@@ -16,5 +16,6 @@ Please create issues for the task that need to be done.
 * GitHub for store files and issues (github.com/scipy-latinamerica/scipyla2016);
 * Mailing list to announcements (groups.google.com/forum/#!forum/scipyla);
 * Twitter (twitter.com/scipyla);
+* Linkedin (https://www.linkedin.com/grp/home?gid=8344796);
 * Website with some information - soon (conf.scipyla.org);
 * Newsletters (soon);
