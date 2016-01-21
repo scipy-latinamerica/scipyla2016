@@ -33,12 +33,44 @@ Para balada:
 * John Bull
 * Guacamole
 
-Pontos Turisticos
-* Praias
-* Trilhas:Naufragados Costa da Lagoa Santinho-Moçambique Picinas da barra Lagoinha do leste 
-* Mercado público
-* Praça XV de Nov
-* Palácio Cruz e Souza
+## Pontos Turisticos - Região Central
+
+#### Mercado público
+Não perca essa visita. O mercado foi construído ao lado da antiga Alfândega, no ano de 1899.
+Além de ser um movimentado centro de comércio, o Mercado Público de Florianópolis é um ponto de encontro, tanto para os moradores quanto para os turistas. Talvez seja por isso que é considerado um dos espaços mais democráticos da Ilha, reunindo em um só lugar artistas, políticos, boêmios, empresários e gente do povo. Nos bares e restaurantes é possível degustar diversos pratos da gastronomia local.
+É um dos primeiros locais de comércio de peixes e gêneros alimentícios no centro da então Vila de Desterro, atual Florianópolis, estima-se que tenha sido construído em 1848.
+Inicialmente, os produtos vindos da região continental e das freguesias eram expostos na praia, sobre a areia. Posteriormente, foram erguidas bancas ao ar livre para a exposição das mercadorias, e finalmente construiu-se o Marcado Público
+Sofreu vários incêndios, voltando sempre a ser reconstruído, pois afinal, além de ser um importante ponto de comércio é um patrimônio da Ilha de Santa Catarina 
+Está aberto de segunda a sexta-feira das 9h às 19h e sábados das 9h às 12h. Não abre aos domingos. (CONFIRMAR)
+
+#### Praça XV de Novembro
+
+Na planície próxima ao mar, o bandeirante Francisco Dias Velho fundou, em 1662, a Vila Nossa Senhora do Desterro. Este é o local onde está a Praça XV de Novembro. Foi a partir dali que a cidade começou a se expandir e é o marco principal do Centro Histórico, com suas construções arquitetônicas originais preservadas.
+
+Na Praça XV está o Monumento em Honra aos Heróis Mortos na Guerra do Paraguai.
+
+Arborizada durante o século XIX, a praça recebeu árvores de grande porte, como palmeiras imperiais, ficus indianos e cravos da Índia, mas com certeza a vedete arbórea é a Figueira Centenária. Diz-se que ela nasceu em 1871 em um jardim que existia em frente à Igreja Matriz e que foi transplantada para o seu lugar atual em 1891.
+
+Tradicional, cantada em prosa e verso pelos artistas ilhéus, traz consigo superstições, como a de contorná-la várias vezes para atrair casamento e fortuna. Se a simpatia funciona ou não, só testando para saber, mas não deixe de aproveitar sua sombra fresca, que abriga vários banquinhos onde os aposentados da cidade descansam e jogam conversa fora.
+
+#### Palácio Cruz e Souza (Museu Histórico de Santa Catarina)
+Vale a pena conhecer  o sobrado colonial que foi construído para ser o Palácio do Governo do Estado. Embora não se saiba a exata data da construção, há registros do prédio no ano de 1785.
+
+Na construção, os detalhes açorianos eram marcantes e a cor do prédio era branca, Com a restauração a cor branca saiu e o Palácio Rosado, como é conhecido, ganhou o tom que mantém até hoje. 
+
+O Palácio foi palco de diversas solenidades e acontecimentos, dentre eles  as visitas dos imperadores Dom Pedro I e II.
+
+As escadarias são em mármore de Carrara, os florões do teto homenageiam os municípios de SC; as salas tem desenho de gesso, assoalho em marchetaria açoriana, estátuas de mármore e  bronze, móveis estilo de D. João V, a cópia do quadro da Primeira Missa no Brasil, de Victor Meirelles, violino, piano, uma caixa de música alemã estilo art nouveau e a primeira lâmpada elétrica residencial de Santa Catarina são algumas das peças em destaque no Museu.
+
+É uma das principais atrações do Centro Histórico.
+
+(ingressos: R$ 5,00 por pessoa e gratuito para crianças e maiores de 65 anos)
+
+* Vista da ponte (praça do 1007)
+* Mirante do Morro da Cruz
+* Catedral
+
+## Pontos Turisticos - Região Norte
 
 #### Fortaleza de São José da Ponta Grossa e Praia do Forte
 
@@ -57,23 +89,39 @@ Passeio com saída de Canasvieiras: O passeio sai do trapiche de Canasvieiras em
 
 Mais informações: (http://www.scunasul.com.br/)
 
+* Igreja de Santo Antônio e proximidades
+* Parque aquático
+## Pontos Turisticos - Região Leste
+
 #### Ilha do Campeche
 A Ilha do Campeche é uma pequena ilha na frente da Praia do Campeche. Ela possui apenas 1 praia com areias muito claras e água cristalina e calma. Além das trilhas subaquáticas preservadas pelo IPHAN existem trilhas pela ilha para visitar os costões e as inscrições rupestres típicas da ilha de Florianópolis (outro lugar para ver essas inscrições é o costão rochoso da parte direito da praia do Santinho).
 Para chegar à ilha só de barco que tem saída pelas praias da Armação e do Campeche. O preço varia com a época do ano entre 75 e 100 reais ida e volta. É importante ficar ligado porque a ilha tem uma capacidade máxima de visitantes em um dia e, se ele for atingido, ninguém pode ir. Os barcos começam a sair por volta das 9 e voltam entre 3 e 4 da tarde. Para maiores informações consulte a Associação de Barqueiros do Campeche: 3338-3160/8424-3282/9903-8298 ou a Associação de Pescadores da Armação 3338-9470/8481-9930/8430-4097/9487-4521.
 
-* Vista da ponte (praça do 1007)
-* Mirantes da lagoa
-* Avenida das Rendeiras
-* Lagoa do Peri
-* Mirante da armação
-* Igreja de Santo Antônio e proximidades
-* Bar do Arantes
+#### Mirantes da lagoa
+Famosa e conhecida, a Lagoa da Conceição, eleita o lugar ‘maix quirido’ de Floripa em enquete realizada pelo portal G1, também abriga um dos principais mirantes da cidade. A vista do mirante da Lagoa da Conceição é um dos principais cartões-postais de Florianópolis. O Mirante da Lagoa dá vista para a Costa Leste da Ilha, incluindo os bairros residenciais Canto da Lagoa (até o Morro do Badejo) e Lagoa da Conceição, o ‘centrinho’ comercial e cultural, a avenida das Rendeiras,
 
-* Mirante do Morro da Cruz
+Fica localizado na Rodovia Admar Gonzaga (SC-404) no topo do morro – no início da descida do morro das Sete Voltas, como é conhecido, que leva à Lagoa da Conceição. No verão o local fica lotado de turistas.
+
+* Avenida das Rendeiras
 * Dunas da joaca
 * Projeto Tamar
-* Parque aquático
-* Catedral
+* 
+## Pontos Turisticos - Região Sul
+* Lagoa do Peri
+* Mirante da armação
+* Bar do Arantes
+* Praias
+*
+## Trilhas
+Naufragados 
+Costa da Lagoa 
+Santinho-Moçambique 
+Piscinas da barra 
+Lagoinha do leste 
+
+
+
+
 * passeio de busão aberto
 
 
