@@ -105,7 +105,7 @@ Fica localizado na Rodovia Admar Gonzaga (SC-404) no topo do morro – no iníci
 * Avenida das Rendeiras
 * Dunas da joaca
 * Projeto Tamar
-* 
+
 ## Pontos Turisticos - Região Sul
 * Lagoa do Peri
 * Mirante da armação
