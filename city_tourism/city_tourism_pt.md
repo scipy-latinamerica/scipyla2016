@@ -48,12 +48,14 @@ A entrada custa apenas 8 reais (4 para estudantes e idosos são isentos). O aces
 
 Enfim, uma vez lá em cima, dê a volta no forte, veja o sol ou o pôr-do-sol na praia do Forte e aproveite o passeio histórico e a vista deslumbrante que você tem de lá de cima. A praia do forte conta com alguns restaurantes "de pé na areia", então também é válida para um happy hour.
 
-### Passeio de Barco Ilhas na Baía Norte
+#### Passeio de Barco Ilhas na Baía Norte
 Um passeio de barco por floripa é uma ótima pedida, especialmente se o dia não tiver perfeito para uma praia ou trilha. Existem passeios pela lagoa da conceição (na média de 10 reais por pessoa) mas a recomendação é o passeio para visitar as fortalezas de Ratones e Ainhatomirim. As fortalezas são construções portuguesas do século XVIII para defesa da ILha do Desterro e estão atualmente sob supervisão da Universidade Federal de Santa Catarina. O passeio pode ser feito de dois modos:  
 
 Passeio saído de debaixo da Ponte Hercílio Luz: O passeio sai do lado de um bar chamado Scuna Bar e tem duração de 6 horas. Ele visita a ilha e a Fortaleza de Ratones, a Fortaleza de Ainhatomirim com parada para almoço na Baía dos Golfinhos. É um passeio mais tranquilo, sem muita algazarra. O passeio custa 75 reais por pessoa e não estão inclusos o almoço no resturante padrão do passeio (25 reais) e o acesso às duas fortalezas visitadas (10 reais a inteira para ambas as fortalezas, 5 reais a meia).
 
 Passeio com saída de Canasvieiras: O passeio sai do trapiche de Canasvieiras em uma escuna do tipo pirata. É um passeio bem animado, com música, e dançarinos para animar quem está viajando. Ele vai para a Fortaleza de Ainhatomirim e parada na Baía dos Golfinhos. É mais recomendado para quem gosta de agito! O passeio custa 78 reais por pessoa e não estão inclusos o almoço no resturante padrão do passeio (25 reais) e o acesso à Fortaleza de Ainhatomirim  (8 reais a inteira, 4 reais a meia).
+
+Mais informações: (http://www.scunasul.com.br/)
 
 
 * Vista da ponte (praça do 1007)
