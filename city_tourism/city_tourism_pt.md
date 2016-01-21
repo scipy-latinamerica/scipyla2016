@@ -5,7 +5,7 @@
 Pastel no boni
 * peixe no oliveira
 
-### Hambúrguer Soul Gourmet (Hambúrguer do Posto)
+#### Hambúrguer Soul Gourmet (Hambúrguer do Posto)
 Sim, é uma hamburgueria num posto de gasolina. Mas é considerado por muitos o melhor hambúrguer da cidade, com carne de verdade e hambpurguer feito na grelha, o lugar também conta com opção vegetariana para os adeptos de plantão. O preço também é atraente com o hambúrguer simples custando na faixa de 17 reais e o duplo na faixa de 22. É bem simples, mas vale a pena conhecer!
 
 * rota gastronomica de coqueiros
@@ -40,7 +40,7 @@ Pontos Turisticos
 * Praça XV de Nov
 * Palácio Cruz e Souza
 
-### FORTALEZA DE SÃO JOSÉ DA PONTA GROSSA E PRAIA DO FORTE
+#### Fortaleza de São José da Ponta Grossa e Praia do Forte
 
 A fortaleza realmente é um lugar lindo, que vale a pena conhecer. É um forte português construído em 1765 que conta com canhões, trajes típicos e utensílios da época de utilização.
 
@@ -77,7 +77,7 @@ Passeio com saída de Canasvieiras: O passeio sai do trapiche de Canasvieiras em
 * Balneário
 * Praia do Rosa
 
-### Rafting/esportes radicais
+#### Rafting/esportes radicais
 Santo Amaro da Imperatriz fica a 34 km de Florianópolis, na BR 282 em direção a Lages. A cidade conta com uma série de cachoeiras e rios e o Rafting se torna uma atração interessante! O rafting custa na faixa de 70 reais mas grupos acima de 10 pessoas tem descontos. Uma das empresas recomendadas é a Ativa Rafting (http://www.ativarafting.com.br) que conta com um grupo experiente e todos os equipamentos de proteção. Diversão garantida!
 
 
