@@ -57,6 +57,9 @@ Passeio com saída de Canasvieiras: O passeio sai do trapiche de Canasvieiras em
 
 Mais informações: (http://www.scunasul.com.br/)
 
+#### Ilha do Campeche
+A Ilha do Campeche é uma pequena ilha na frente da Praia do Campeche. Ela possui apenas 1 praia com areias muito claras e água cristalina e calma. Além das trilhas subaquáticas preservadas pelo IPHAN existem trilhas pela ilha para visitar os costões e as inscrições rupestres típicas da ilha de Florianópolis (outro lugar para ver essas inscrições é o costão rochoso da parte direito da praia do Santinho).
+Para chegar à ilha só de barco que tem saída pelas praias da Armação e do Campeche. O preço varia com a época do ano entre 75 e 100 reais ida e volta. É importante ficar ligado porque a ilha tem uma capacidade máxima de visitantes em um dia e, se ele for atingido, ninguém pode ir. Os barcos começam a sair por volta das 9 e voltam entre 3 e 4 da tarde. Para maiores informações consulte a Associação de Barqueiros do Campeche: 3338-3160/8424-3282/9903-8298 ou a Associação de Pescadores da Armação 3338-9470/8481-9930/8430-4097/9487-4521.
 
 * Vista da ponte (praça do 1007)
 * Mirantes da lagoa
@@ -65,7 +68,7 @@ Mais informações: (http://www.scunasul.com.br/)
 * Mirante da armação
 * Igreja de Santo Antônio e proximidades
 * Bar do Arantes
-* Ilha do Campeche
+
 * Mirante do Morro da Cruz
 * Dunas da joaca
 * Projeto Tamar
