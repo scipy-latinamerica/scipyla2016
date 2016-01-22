@@ -143,7 +143,7 @@ Fica localizado na Rodovia Admar Gonzaga (SC-404) no topo do morro – no iníci
 * Dunas da joaca
 * Projeto Tamar
 
-## Pontos Turisticos - Região Sul
+## Pontos Turísticos - Região Sul
 * Lagoa do Peri
 * Mirante da armação
 * Bar do Arantes
@@ -162,7 +162,7 @@ Lagoinha do leste
 * passeio de busão aberto
 
 
-## Pontos turístico em cidades próximas:
+## Pontos Turísticos em cidades próximas:
 * Guarda do embaú
 * Balneário
 * Praia do Rosa
