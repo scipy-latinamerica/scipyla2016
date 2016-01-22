@@ -32,12 +32,19 @@ Rua Des. Pedro Silva, 2360 (Coqueiros)
 Bares em volta da UFSC e UDESC estão entre os que tem a cerveja mais barata e o ambiente bem universitário. São vários que podemos listar:
 
 Container I - Rua Deputado Antônio Edu Vieira (fim da Beira-Mar Norte), em frente a UFSC. (Bairro Pantanal)
+
 Container II - R. Cap. Romualdo de Barros, 820 (Bairro Carvoeira)
+
 Bar do Iega - Rua Professor Milton Sulivan, 781 (Bairro Carvoeira esquina com Rua Capitão Romualdo de Barros)
+
 Engarrafamento - Rua Capitão Romualdo de Barros (Bairro Carvoeira ao lado do Container II)
+
 Meu escritório - Rua Deputado Antônio Edu Vieira (fim da Beira-Mar Norte), em frente a UFSC. (Bairro Pantanal)
+
 Meu vizinho - Rua Deputado Antônio Edu Vieira 1776 (Bairro Pantnal) - Funciona como Bar e Hamburgueria
+
 Quebra-Gelo - R. Lauro Linhares, 1628 (Bairro Trindade) - Serve lanches também
+
 Quebra-Gelo II - Av. Madre Benvenuta, 1012 (Bairro Santa Mônica)
 
 ## Baladas
