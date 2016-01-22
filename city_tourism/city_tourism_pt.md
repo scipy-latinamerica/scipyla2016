@@ -61,7 +61,7 @@ Quebra-Gelo II - Av. Madre Benvenuta, 1012 (Bairro Santa Mônica)
 * John Bull
 * Guacamole
 
-## Pontos Turisticos - Região Central
+## Pontos Turísticos - Região Central
 
 #### Mercado público
 Não perca essa visita. O mercado foi construído ao lado da antiga Alfândega, no ano de 1899.
@@ -98,7 +98,7 @@ As escadarias são em mármore de Carrara, os florões do teto homenageiam os mu
 * Mirante do Morro da Cruz
 * Catedral
 
-## Pontos Turisticos - Região Norte
+## Pontos Turísticos - Região Norte
 
 #### Fortaleza de São José da Ponta Grossa e Praia do Forte
 
@@ -117,11 +117,18 @@ Passeio com saída de Canasvieiras: O passeio sai do trapiche de Canasvieiras em
 
 Mais informações: (http://www.scunasul.com.br/)
 
-* Igreja de Santo Antônio e proximidades
+#### Rota Gastronômica do Por-do-sol
+Os bairros de Santo Antônio de Lisboa, Cacupé e Sambaqui são conhecidos como "Rota Gastronômica do Por-do-sol". Redutos da cultura açoriana na ilha, possuem uma incrível vista para a Baía Norte e Ponte Hercílio Luz e camarote para os famosos pores-do-sol de Florianópolis. A freguesia conserva a arquitetura açoriana tradicional, os costumes herdados dos colonizadores portugueses e a tranquilidade das pequenas vilas do século XIX. 
+
+A região conta com diversos restaurantes famosos por sua culinária como o Marisqueira Sintra, Rosso, Coisas de Maria e João, Zé do Cacupé, João de Barro, Pitangueiras, Toca de Santo Antônio, Bate-Ponto, Chão Batido entre outros. Nas noites de verão, é comum os barzinhos colocarem mesas nas calçadas, onde se pode petiscar e curtir a atmosfera do local.
+
+Além disso, vale uma visita à Igreja de Nossa Senhora das Necessidades, construída em 1757 e uma das principais feições da cultura barroca no Sul do Brasil. 
+Lojas de artesanatos e cerâmica também podem ser encontradas nas casas com formato típico açoriano, com as janelas diretamente nas calçadas. 
+
 * Parque aquático
 
 
-## Pontos Turisticos - Região Leste
+## Pontos Turísticos - Região Leste
 
 #### Ilha do Campeche
 A Ilha do Campeche é uma pequena ilha na frente da Praia do Campeche. Ela possui apenas 1 praia com areias muito claras e água cristalina e calma. Além das trilhas subaquáticas preservadas pelo IPHAN existem trilhas pela ilha para visitar os costões e as inscrições rupestres típicas da ilha de Florianópolis (outro lugar para ver essas inscrições é o costão rochoso da parte direito da praia do Santinho).
