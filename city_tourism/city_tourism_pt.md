@@ -1,28 +1,46 @@
 # Florianópolis
 
-## Para comer
+## Para comer e beber (bem!)
 
-Pastel no boni
-* peixe no oliveira
+### Bar do Boni
+Bar do Boni é uma atração típica! Localizado no fim da Avenida da Rendeiras, na Lagoa da Conceição, o bar conta com uma vista de tirar o fôlego, cerveja gelada e música boa. O pasterlzinho de camarão e berbigão também são boas pedidas.
+Av. Prefeito Acácio Garibaldi São Tiago, 67 (Lagoa da Conceição)
 
 #### Hambúrguer Soul Gourmet (Hambúrguer do Posto)
 Sim, é uma hamburgueria num posto de gasolina. Mas é considerado por muitos o melhor hambúrguer da cidade, com carne de verdade e hambpurguer feito na grelha, o lugar também conta com opção vegetariana para os adeptos de plantão. O preço também é atraente com o hambúrguer simples custando na faixa de 17 reais e o duplo na faixa de 22. É bem simples, mas vale a pena conhecer!
 
+#### Books and beers
+Para aqueles que gostam de boas cervejas, boa comida e boa vista. Bar temático para os amantes da leitura e da boa bebida, fica ás margens da lagoa da conceição, de frente para uma marina. Com certeza, imperdível.
+R. Sen. Ivo D Aquino, 103 (Lagoa da Conceição)
+
+#### Zé Mané
+Localizado na Orla Gastronômica de Coqueiros, o bar tem ambiente agradável e vista bonita. A capirinha de limão siciliano deve ser conferida! Outras capirinhas diferentes agregam ao cardápio.
+Rua Des. Pedro Silva, 2360 (Coqueiros)
+
+* peixe no oliveira
 * rota gastronomica de coqueiros
 * arantes
 * ostradamus e cia (caro)
 * bocas
 * Bar do cris
-* zé mané
 * o viking
+* Cervejaria Original
+* Bar da Devassa
 
-Para beber/comer:
-* container 
-* meu escritorio
-* boteco bacana
-* Didge
+## Para beber (low-cost)
 
-Para balada:
+Bares em volta da UFSC e UDESC estão entre os que tem a cerveja mais barata e o ambiente bem universitário. São vários que podemos listar:
+
+Container I - Rua Deputado Antônio Edu Vieira (fim da Beira-Mar Norte), em frente a UFSC. (Bairro Pantanal)
+Container II - R. Cap. Romualdo de Barros, 820 (Bairro Carvoeira)
+Bar do Iega - Rua Professor Milton Sulivan, 781 (Bairro Carvoeira esquina com Rua Capitão Romualdo de Barros)
+Engarrafamento - Rua Capitão Romualdo de Barros (Bairro Carvoeira ao lado do Container II)
+Meu escritório - Rua Deputado Antônio Edu Vieira (fim da Beira-Mar Norte), em frente a UFSC. (Bairro Pantanal)
+Meu vizinho - Rua Deputado Antônio Edu Vieira 1776 (Bairro Pantnal) - Funciona como Bar e Hamburgueria
+Quebra-Gelo - R. Lauro Linhares, 1628 (Bairro Trindade) - Serve lanches também
+Quebra-Gelo II - Av. Madre Benvenuta, 1012 (Bairro Santa Mônica)
+
+## Baladas
 * P12
 * fields
 * 1007
