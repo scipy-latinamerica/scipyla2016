@@ -2,7 +2,7 @@
 
 ## Para comer e beber (bem!)
 
-### Bar do Boni
+#### Bar do Boni
 Bar do Boni é uma atração típica! Localizado no fim da Avenida da Rendeiras, na Lagoa da Conceição, o bar conta com uma vista de tirar o fôlego, cerveja gelada e música boa. O pasterlzinho de camarão e berbigão também são boas pedidas.
 Av. Prefeito Acácio Garibaldi São Tiago, 67 (Lagoa da Conceição)
 
