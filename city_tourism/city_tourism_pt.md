@@ -119,6 +119,8 @@ Mais informações: (http://www.scunasul.com.br/)
 
 * Igreja de Santo Antônio e proximidades
 * Parque aquático
+
+
 ## Pontos Turisticos - Região Leste
 
 #### Ilha do Campeche
