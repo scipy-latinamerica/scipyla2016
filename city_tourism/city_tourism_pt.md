@@ -4,6 +4,7 @@
 
 #### Bar do Boni
 Bar do Boni é uma atração típica! Localizado no fim da Avenida da Rendeiras, na Lagoa da Conceição, o bar conta com uma vista de tirar o fôlego, cerveja gelada e música boa. O pasterlzinho de camarão e berbigão também são boas pedidas.
+
 Av. Prefeito Acácio Garibaldi São Tiago, 67 (Lagoa da Conceição)
 
 #### Hambúrguer Soul Gourmet (Hambúrguer do Posto)
@@ -11,10 +12,12 @@ Sim, é uma hamburgueria num posto de gasolina. Mas é considerado por muitos o 
 
 #### Books and beers
 Para aqueles que gostam de boas cervejas, boa comida e boa vista. Bar temático para os amantes da leitura e da boa bebida, fica ás margens da lagoa da conceição, de frente para uma marina. Com certeza, imperdível.
+
 R. Sen. Ivo D Aquino, 103 (Lagoa da Conceição)
 
 #### Zé Mané
 Localizado na Orla Gastronômica de Coqueiros, o bar tem ambiente agradável e vista bonita. A capirinha de limão siciliano deve ser conferida! Outras capirinhas diferentes agregam ao cardápio.
+
 Rua Des. Pedro Silva, 2360 (Coqueiros)
 
 * peixe no oliveira
