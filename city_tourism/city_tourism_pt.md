@@ -8,7 +8,7 @@ Bar do Boni é uma atração típica! Localizado no fim da Avenida da Rendeiras,
 Av. Prefeito Acácio Garibaldi São Tiago, 67 (Lagoa da Conceição)
 
 #### Hambúrguer Soul Gourmet (Hambúrguer do Posto)
-Sim, é uma hamburgueria num posto de gasolina. Mas é considerado por muitos o melhor hambúrguer da cidade, com carne de verdade e hambpurguer feito na grelha, o lugar também conta com opção vegetariana para os adeptos de plantão. O preço também é atraente com o hambúrguer simples custando na faixa de 17 reais e o duplo na faixa de 22. É bem simples, mas vale a pena conhecer!
+Sim, é uma hamburgueria num posto de gasolina. Mas é considerado por muitos o melhor hambúrguer da cidade, com carne de verdade e hambpurguer feito na grelha, o lugar também conta com opção vegetariana para os adeptos de plantão. O preço também é atraente com o hambúrguer simples custando na faixa de 17 reais e o duplo por 23. É bem simples, mas vale a pena conhecer!
 
 #### Books and beers
 Para aqueles que gostam de boas cervejas, boa comida e boa vista. Bar temático para os amantes da leitura e da boa bebida, fica ás margens da lagoa da conceição, de frente para uma marina. Com certeza, imperdível.
@@ -144,22 +144,39 @@ Fica localizado na Rodovia Admar Gonzaga (SC-404) no topo do morro – no iníci
 * Projeto Tamar
 
 ## Pontos Turísticos - Região Sul
-* Lagoa do Peri
-* Mirante da armação
-* Bar do Arantes
-* Praias
-*
+
+#### Lagoa do Peri
+A Lagoa do Peri é a maior lagoa totalmente de água doce potável da costa catarinense, com cinco quilômetros quadrados de espelho d’água. É também, o maior manancial de água potável da Ilha. O Parque Municipal da Lagoa do Peri é uma reserva biológica, tendo bastante sombra, rico em fauna e flora. Além disso, ouvem-se diversos pássaros por ali.
+
+É possível andar de pedalinho e existem algumas trilhas dentro do parque. Entrada gratuita e estacionamento dentro do parque.
+
+#### Mirante da armação
+Do alto da Casa de Retiros Vila Fátima, avista-se toda a Praia da Armação. Além da bela vista, pode-se apreciar a obra da Companhia de Jesus (Jesuítas), fundada em 1956. O local é chamado também de “Casa de Pedra”, “Mosteiro ou Convento dos Jesuítas”.
+
+#### Bar do Arantes
+Quem visita Florianópolis não pode deixar de conhecer um dos restaurantes mais tradicionais da cidade, o Bar do Arante, localizado na Praia do Pântano do Sul (Rua Abelardo Otacílio Gomes, 254), sul da ilha,  a aproximadamente 25km do centro da cidade. Foi aberto em 1958 pelo casal Osmarina e Arante e tornou-se popular não só por seus pratos à base de frutos do mar, mas também pelos bilhetes que são deixados em suas paredes.
+
+## Praias
+
 ## Trilhas
-Naufragados 
-Costa da Lagoa 
-Santinho-Moçambique 
-Piscinas da barra 
-Lagoinha do leste 
+
+#### Trilha de Naufragados 
+
+#### Costa da Lagoa 
+
+##### Santinho-Moçambique 
+##### Piscinas da barra 
+##### Lagoinha do leste 
 
 
 
 
-* passeio de busão aberto
+## Outros
+
+#### Floripa by bus
+O Floripa by Bus faz uma série de passeios 
+http://www.floripabybus.com.br/
+
 
 
 ## Pontos Turísticos em cidades próximas:
