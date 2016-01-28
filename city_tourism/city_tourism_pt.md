@@ -178,8 +178,7 @@ Fica localizado na Rodovia Admar Gonzaga (SC-404) no topo do morro – no iníci
 ## Pontos Turísticos - Região Sul
 
 #### Lagoa do Peri
-A Lagoa do Peri é a maior lagoa totalmente de água doce potável da costa catarinense, com cinco quilômetros quadrados de espelho d’água. É também, o maior manancial de água potável da Ilha. O Parque Municipal da Lagoa do Peri é uma reserva biológica, tendo bastante sombra, rico em fauna e flora. Além disso, ouvem-se diversos pássaros por ali.
-É possível andar de pedalinho e existem algumas trilhas dentro do parque. Entrada gratuita e estacionamento dentro do parque.
+A Lagoa do Peri é a maior lagoa totalmente de água doce potável da costa catarinense, com cinco quilômetros quadrados de espelho d’água. Não há muitas opções para comer, há um restaurante-bar e uma lanchonete apenas. Uma boa dica é fazer um piquenique. A área em volta da lagoa tem mata e trilhas belíssimas que levam a cachoeiras e antigos engenhos coloniais. As caminhadas ecológicas, em alguns casos são realizadas com acompanhamento. É possível tomar banho nas calmas águas da lagoa com acesso através de uma pequena praia. O local contém estacionamento e a entrada é gratuita.
 
 #### Mirante da armação
 Do alto da Casa de Retiros Vila Fátima, avista-se toda a Praia da Armação. Além da bela vista, pode-se apreciar a obra da Companhia de Jesus (Jesuítas), fundada em 1956. O local é chamado também de “Casa de Pedra”, “Mosteiro ou Convento dos Jesuítas”.
