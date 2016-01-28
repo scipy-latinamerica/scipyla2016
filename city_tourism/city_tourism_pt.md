@@ -20,15 +20,6 @@ Localizado na Orla Gastronômica de Coqueiros, o bar tem ambiente agradável e v
 
 Rua Des. Pedro Silva, 2360 (Coqueiros)
 
-* peixe no oliveira
-* rota gastronomica de coqueiros
-* arantes
-* ostradamus e cia (caro)
-* bocas
-* Bar do cris
-* o viking
-* Cervejaria Original
-* Bar da Devassa
 
 ## Para beber (low-cost)
 
@@ -132,9 +123,9 @@ As escadarias são em mármore de Carrara, os florões do teto homenageiam os mu
 
 (ingressos: R$ 5,00 por pessoa e gratuito para crianças e maiores de 65 anos)
 
-* Vista da ponte (praça do 1007)
-* Mirante do Morro da Cruz
-* Catedral
+#### Mirante do Morro da Cruz
+
+O Morro da Cruz é um dos melhores pontos para se contemplar uma vista panorâmica de Florianópolis, permitindo uma visão privilegiada das duas baías, das pontes que ligam a ilha ao continente e  dos bairros na região continental. Seu pico se encontra a 285 m de altura e, em dias claros, pode-se avistar também grande parte dos municípios da grande Florianópolis, como Palhoça, São José e Biguaçu. O principal acesso ao mirante do Morro da Cruz é feito pela Rua do Antão (via Beira Mar Norte), por meio do bairro Agronômica.
 
 ## Pontos Turísticos - Região Norte
 
@@ -163,29 +154,31 @@ A região conta com diversos restaurantes famosos por sua culinária como o Mari
 Além disso, vale uma visita à Igreja de Nossa Senhora das Necessidades, construída em 1757 e uma das principais feições da cultura barroca no Sul do Brasil. 
 Lojas de artesanatos e cerâmica também podem ser encontradas nas casas com formato típico açoriano, com as janelas diretamente nas calçadas. 
 
-* Parque aquático
+#### Água Show Park
 
+O complexo Água Show Park é o melhor parque aquático de Santa Catarina. Abriga várias áreas voltadas para diversão, lazer e turismo, além de restaurantes, bar, lanchonetes e atividades esportivas.
+
+(48) 3369-2354
+
+Rodovia Armando Calil Bullos, SC-403, 3868 - Ingleses 
 
 ## Pontos Turísticos - Região Leste
 
 #### Ilha do Campeche
+
 A Ilha do Campeche é uma pequena ilha na frente da Praia do Campeche. Ela possui apenas 1 praia com areias muito claras e água cristalina e calma. Além das trilhas subaquáticas preservadas pelo IPHAN existem trilhas pela ilha para visitar os costões e as inscrições rupestres típicas da ilha de Florianópolis (outro lugar para ver essas inscrições é o costão rochoso da parte direito da praia do Santinho).
 Para chegar à ilha só de barco que tem saída pelas praias da Armação e do Campeche. O preço varia com a época do ano entre 75 e 100 reais ida e volta. É importante ficar ligado porque a ilha tem uma capacidade máxima de visitantes em um dia e, se ele for atingido, ninguém pode ir. Os barcos começam a sair por volta das 9 e voltam entre 3 e 4 da tarde. Para maiores informações consulte a Associação de Barqueiros do Campeche: 3338-3160/8424-3282/9903-8298 ou a Associação de Pescadores da Armação 3338-9470/8481-9930/8430-4097/9487-4521.
 
 #### Mirantes da lagoa
+
 Famosa e conhecida, a Lagoa da Conceição, eleita o lugar ‘maix quirido’ de Floripa em enquete realizada pelo portal G1, também abriga um dos principais mirantes da cidade. A vista do mirante da Lagoa da Conceição é um dos principais cartões-postais de Florianópolis. O Mirante da Lagoa dá vista para a Costa Leste da Ilha, incluindo os bairros residenciais Canto da Lagoa (até o Morro do Badejo) e Lagoa da Conceição, o ‘centrinho’ comercial e cultural, a avenida das Rendeiras,
 
 Fica localizado na Rodovia Admar Gonzaga (SC-404) no topo do morro – no início da descida do morro das Sete Voltas, como é conhecido, que leva à Lagoa da Conceição. No verão o local fica lotado de turistas.
-
-* Avenida das Rendeiras
-* Dunas da joaca
-* Projeto Tamar
 
 ## Pontos Turísticos - Região Sul
 
 #### Lagoa do Peri
 A Lagoa do Peri é a maior lagoa totalmente de água doce potável da costa catarinense, com cinco quilômetros quadrados de espelho d’água. É também, o maior manancial de água potável da Ilha. O Parque Municipal da Lagoa do Peri é uma reserva biológica, tendo bastante sombra, rico em fauna e flora. Além disso, ouvem-se diversos pássaros por ali.
-
 É possível andar de pedalinho e existem algumas trilhas dentro do parque. Entrada gratuita e estacionamento dentro do parque.
 
 #### Mirante da armação
@@ -212,18 +205,19 @@ Quem visita Florianópolis não pode deixar de conhecer um dos restaurantes mais
 ## Outros
 
 #### Floripa by bus
-O Floripa by Bus faz uma série de passeios 
+O Floripa by Bus faz uma série de passeios em ônibus aberto. Mais informações em:
 http://www.floripabybus.com.br/
 
 
 
 ## Pontos Turísticos em cidades próximas:
-* Guarda do embaú
-* Balneário
-* Praia do Rosa
+
+#### Guarda do embaú
+Guarda do Embaú é uma praia localizada no município de Palhoça, no estado de Santa Catarina, Brasil, 46 km ao sul de Florianópolis. O balneário está localizado no Parque Estadual da Serra do Tabuleiro e conta com aproximadamente 400 moradores, a maioria artesãos, pescadores e surfistas. A praia surpreende os turistas desde o início pois, para chegar a Guarda do Embaú, é preciso atravessar um rio chamado Madre. Esta, por sua vez, pode ser feita a nado ou com o auxilio de um barco. A trilha do morro do urubu é cansativa mas a vista é de tirar o fôlego.
 
 #### Rafting/esportes radicais
 Santo Amaro da Imperatriz fica a 34 km de Florianópolis, na BR 282 em direção a Lages. A cidade conta com uma série de cachoeiras e rios e o Rafting se torna uma atração interessante! O rafting custa na faixa de 70 reais mas grupos acima de 10 pessoas tem descontos. Uma das empresas recomendadas é a Ativa Rafting (http://www.ativarafting.com.br) que conta com um grupo experiente e todos os equipamentos de proteção. Diversão garantida!
 
-
+#### Praia do Rosa
+A Praia do Rosa é o lugar perfeito para aqueles que buscam descanso em meio a natureza e que querem fugir das praias super povoadas. Em muito, ainda lembra, a antiga vila de pescadores que era antes de ser descoberta por surfistas na década de 70. Ao sul e oeste do Rosa está a Lagoa da Ibiraquera onde a pesca do camarão é a grande atração nas noites de lua cheia, além de ser o local perfeito para admirar as mais variadas espécies de aves. Ótima opção para os adeptos de esportes como Windsurf, Kitesurf e o surfe. Mais ao sul está a Praia da Vila com suas ondas perfeitas, é considerada uma das melhores ondas do Brasil pelos surfistas. 
 
