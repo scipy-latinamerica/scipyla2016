@@ -51,15 +51,53 @@ Quebra-Gelo - R. Lauro Linhares, 1628 (Bairro Trindade) - Serve lanches também
 Quebra-Gelo II - Av. Madre Benvenuta, 1012 (Bairro Santa Mônica)
 
 ## Baladas
-* P12
-* fields
-* 1007
-* 7
-* 13
-* Chopp do Gus
-* Black Swan
-* John Bull
-* Guacamole
+
+#### DeRaiz - Forró e Samba (Tipo: Roots)
+
+É um bar/baladinha bem simples, numa casa de madeira. Todo domingo tem Sambão DeRaiz, um patrimônio da Joaquina. Sempre rola festas diferenciadas e o forró é bem bom as terças-feiras. É o único bar com vista para as dunas da Joaca, o que dá um astral espetacular. 
+(48) 3232-5479 / 9608-1978 / 9609-4734
+Estrada Geral da Joaquina (frente às Dunas)
+
+#### John Bull Floripa (Tipo: Pub/Rock)
+
+Ao longo de 15 anos o John Bull Floripa se consolidou como uma das mais prestigiadas casas noturnas de Florianópolis. A casa é conhecida pelos shows ao vivo com o melhor do Rock, além da decoração temática com lendas do rock,  ambiente climatizado, cardápio diferenciado, vista para a Lagoa da Conceição e estacionamento. Por diversas vezes premiada como "Melhor Casa de Música ao Vivo de Santa Catarina", agora oferece um novo ESPAÇO GASTRONÔMICO, com bares exclusivos para espumantes, vinhos, chopp e cervejas artesanais.
+(48) 3232-8535
+Avenida das Rendeiras, 1046 - Lagoa da Conceição
+
+#### Casa de Noca (Tipo: Roots)
+
+A busca da multicultura foi o estopim para a criação da "Casa de Noca – Música . Gastronomia . Artes". Um ambiente ideal para ouvir boa música, comer petiscos de primeira qualidade, curtir exposições e, principalmente, se sentir bem à vontade. Seja de terno ou de chinelo de dedo, a 'Casa' é nossa! Vale a pena conferir a programação preparada e alterada toda semana com show nacionais! 
+(48) 3238-5310
+Av. Rendeiras, 1176 - Lagoa da Conceição
+
+#### General Lee (Tipo: Pub/Rock)
+
+Premiado pela Veja como Bar Revelação 2012 e Melhor Música ao Vivo em 2013. Rock’n’Roll, simples e aconchegante, como bares de estrada de filmes norte-americanos. Servimos exclusivamente o Chopp Artesanal Coruja, além de toda carta de cervejas da marca. No cardápio temos diversas opções de porções e aperitivos. Destaque para o sanduíche de costela assada. A "Caverna" te espera!
+(48) 3028-3445
+Rua Cônego Bernardo, 101 - Trindade
+
+#### Guacamole (Tipo: Bar animado)
+
+Guacamole é um restaurante famoso pelos seus tequileros animados e comida apimentada. Conta com show de danças latinas que anima o público! Comida mexicana variada em tacos, nachos e tequilas, lugar colorido e clima jovial com descontração e música.
+(48) 3225-0900
+Av. Jorn. Rubéns de Arruda Ramos, 2006 - Centro
+
+#### Fields Floripa (Tipo: Balada Sertaneja)
+
+FIELDS Floripa a primeira casa de luxo voltada para sertanejo, ritmo que domina o Brasil em alta velocidade e agora contagia a Ilha de Santa Catarina. Projetada para um público exigente, com um espaço amplo, confortável, com pé direito de oito metros e dois ambientes. Pista e Mezanino VIP, área composta por nove camarotes estrategicamente posicionados de frente para o palco e 53 mesas bistrô garantindo excelência em serviços e no atendimento. No palco shows com atrações de qualidade e duplas consagradas.
+(48) 3025-6646
+Av. Paulo Fontes, 1025 - Centro
+
+#### P12 (Tipo: Balada/Shows/Piscina)
+
+Junto à praia, amplo espaço reconhecido pelas pool parties e música eletrônica também recebe artistas famosos. Toda elegância da praia mais glamourosa da Ilha de Santa Catarina, no lugar mais despojado, atual e sofisticado do país: Jurerê Internacional. Conta com shows de DJs e artistas de renome nacional e internacional. 
+(48) 3282-9643
+Servidão José Cardoso de Oliveira, s/n - Jurerê Internacional
+
+#### 1007 (Tipo: Balada / Alternativa)
+Casa noturna com drinques e petiscos, pista de dança para curtir pop, funk, eletrônico e rock, clima animado. São 3 pistas e uma vista fenomenal para a Ponte Hercílio Luz. Os drinks da casa são famosos como o Fada Erótica e o Cura Gay.
+(48) 3204-6175
+Alameda Adolfo Konder, 1007 - Centro
 
 ## Pontos Turísticos - Região Central
 
