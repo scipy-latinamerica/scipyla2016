@@ -145,59 +145,62 @@ The region has several restaurants famous for their cuisine such as Marisqueira 
 Also worth a visit to the Igreja Nossa Senhora das Necessidades (Church of Our Lady of Needs), built in 1757 and one of the main features of Baroque culture in southern Brazil. Shops of handicrafts and ceramics can also be found in homes with typical Azorean format, with the windows directly open over  the sidewalks.
 
 #### Água Show Park
+The Water Show Park is the best water park in Santa Catarina. It has several areas separated for fun, recreation and turism. The park contains restaurants, bars, food shops and sports activities.
 
 (48) 3369-2354
 
 Rodovia Armando Calil Bullos, SC-403, 3868 - Ingleses 
 
-## Pontos Turísticos - Região Leste
+## Points of interest - Eastern Region
 
-#### Ilha do Campeche
+#### Campeche Island
+The Campeche Island is a small island in front of Campeche Beach. It has only one beach with very white sand and crystal clear and calm water. In addition to the underwater trails preserved by IPHAN there are trails through the island to visit the cliffs and the typical rupestrian inscriptions of the island of Florianópolis (another place to see those inscriptions is the rocky cliff on the right side of the Santinho beach). The access to the island is only by boat with departures from the beaches of Armação and Campeche. The price varies with the time of year between 75 and 100 reais round trip. It is important to pay attention because the island has a maximum capacity of visitors in one day and, once the number is reached, no one can go. The boats start to leave around 9 am and come back between 3 and 4  pm. For more information contact Associação dos Barqueiros do Campeche (Boatmen Association of Campeche): 3338-3160 / 8424-3282 / 9903-8298 or the Fishermen Association of Pera 3338-9470 / 8481-9930 / 8430-4097 / 9487-4521
 
+#### Lagoon overlook
+Famous and well known, Lagoa da Conceição, was chosen the “dearest place” of Floripa in a quiz conducted by G1 portal, it is also home to one of the main viewpoints of the city. The view from that point is one of the postcards of Florianópolis. The Mirante da Lagoa overlooks the East Coast of the Island, including residential neighborhoods Canto da Lagoa (till Morro do Badejo) and Lagoa da Conceição, the commercial and cultural 'little center' and  Avenida das Rendeiras.
+It is located on Highway Admar Gonzaga (SC-404) at the top of the hill - at the beginning of the way down from Hill of  Seven Turns, as it is known, which leads to the Lagoa da Conceição. In summer the place is full of tourists.
 
-#### Mirantes da lagoa
+## Points of interest - South Region
 
+#### Peri Lake
+The Peri Lake is the biggest lake with potable water in the whole Santa Catarina Litoral, with 5 km². It doesn't have many options to eat, there is a small restaurant and a snack bar. A good idea is to take things and make a sandwich. The area around the lagoon is a park with hiking trails that leads to waterfalls and old colonial houses. The hiking, in some cases, must have an official guide. It is possible to have a bath in the calm lake waters on the small beach. It has parking space.
 
-## Pontos Turísticos - Região Sul
+#### Armação overlook
+From the high spot you can see all Armação Beach. Beside the beutiful view you can appreciate the work of the Jesus Company (Jesuits), founded on 1956. The place is called "House of Stone" or "monastery of Jesuits".
+Do alto da Casa de Retiros Vila Fátima, avista-se toda a Praia da Armação. Além da bela vista, pode-se apreciar a obra da Companhia de Jesus (Jesuítas), fundada em 1956. O local é chamado também de “Casa de Pedra”, “Mosteiro ou Convento dos Jesuítas”.
 
-#### Lagoa do Peri
+#### Arantes Bar
+Who visits Florianópolis have to meet one of the most traditional restaurants of the city, the Arantes Bar, on Pântano do Sul Beach (Rua Abelardo Otacílio Gomes, 254), approximately 25 km from downtown. It was opened in 1958 buy the couple Osmarina e Arante and becaome so popular not only for the food but the notes that travellers leaved all over the walls.
 
+## Beaches:
+North Region - Jurerê Internacional, Jurerê Tradicional, Daniela, Brava, Ingleses, Costão do Santinho
+East Region - Moçambique, Barra da Lagoa, Galheta, Mole, Joaquina, Campeche
+South Region - Armação, Matadeiro, Pântano do Sul, Açores
 
-#### Mirante da armação
-
-
-#### Bar do Arantes
-
-
-## Praias
-
-## Trilhas
+## Hiking spots
 
 #### Trilha de Naufragados 
-
 #### Costa da Lagoa 
-
 ##### Santinho-Moçambique 
 ##### Piscinas da barra 
 ##### Lagoinha do leste 
 
 
-
-
-## Outros
+## Other
 
 #### Floripa by bus
+Floripa by Bus has a series of bus trips in an open bus. More information in: http://www.floripabybus.com.br/
 
-
-
-## Pontos Turísticos em cidades próximas:
+## Points of interest nearby:
 
 #### Guarda do embaú
+Guarda do Embaú is a beach on the city of Palhoça, 46 km from Florianópolis. To have acces to the beaches, it is necessary to cross the Madre River by boat or foot on the low tide. It is a small village with 400 people most of them artists, fisherman and surfers. There is a hiking you can do to go up to the Urubu Hill and see all the natural formations from up above.
 
+#### Rafting/extreme sports
+Santo Amaro da Imperatriz is 34 km far from Florianopolis, by BR 282 highway toward Lages. The city has a number of waterfalls and rivers and rafting becomes an interesting attraction! The rafting costs around 70 reais but groups with more than 10 people have discounts. One of the recommended companies is  Ativa Rafting (http://www.ativarafting.com.br) which has an experienced group and all protective equipment. Guaranteed fun!
 
-#### Rafting/esportes radicais
+#### Rosa Beach
+Praia do Rosa is a place for those who want to rest in the nature and scape from crowded beaches. It still remainds its old fisherman village style from the 70s when it became known by surfers. South and west from there is Ibiraquera lagoon where the shrimp hunt is the big thing in full moon nights. It is an excellent place for sport lovers such as windsurf, kitesurf and surf itself. South from there there is Praia da Vila, with perfect waves and considered one of the best brazilian waves for surfers.
 
-
-#### Praia do Rosa
 
 
