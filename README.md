@@ -1,5 +1,7 @@
 # SciPyLA 2016
 
+[![Join the chat at https://gitter.im/scipy-latinamerica/scipyla2016](https://badges.gitter.im/scipy-latinamerica/scipyla2016.svg)](https://gitter.im/scipy-latinamerica/scipyla2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository store documents related with SciPy Latin America 2016.
 
 Some information are stored on
