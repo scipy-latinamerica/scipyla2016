@@ -14,13 +14,13 @@ Attends that want financial aids need to fill a form provide by SciPyLA.
 Each form will get a note based on a multi-criteria script
 and the high ranked will get the aid.
 
-Position              Normal Aids                   Special Case Aids
---------------------- ----------------------------- -------------------------------
-Undergraduate student 75% of cheaper travel tickets 100% of cheapest travel tickets
-Graduate student      50% of cheaper travel tickets 75%  of cheapest travel tickets
-Post doctorate        25% of cheaper travel tickets 50%  of cheapest travel tickets
-Faculty               25% of cheaper travel tickets 50%  of cheapest travel tickets
-Enterprise employer   25% of cheaper travel tickets 50%  of cheapest travel tickets
+| Position              | Normal Aids                    | Special Case Aids |
+| --------------------- | ------------------------------ | ------------------------------- |
+| Undergraduate student | 75% of cheapest travel tickets | 100% of cheapest travel tickets |
+| Graduate student      | 50% of cheapest travel tickets | 75%  of cheapest travel tickets |
+| Post doctorate        | 25% of cheapest travel tickets | 50%  of cheapest travel tickets |
+| Faculty               | 25% of cheapest travel tickets | 50%  of cheapest travel tickets |
+| Enterprise employer   | 25% of cheapest travel tickets | 50%  of cheapest travel tickets |
 
 Tickets fare will be query buy the organization from websites like
 
