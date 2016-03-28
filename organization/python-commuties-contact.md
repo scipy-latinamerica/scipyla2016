@@ -1,22 +1,25 @@
 **Contact international communities to support the conference**.
 
-- [ ] Argentina
-- [ ] Bolivia
+- [x] Argentina - @celiacintas
+- [x] Bolivia - @govarguz
 - Brasil
   - [x] Python Brasil 2015 (lightning talk) by @sergiomario
 - Chile
   - [x] pythonchile (groups.google.com/forum/#!forum/pythonchile) by @xmnlab 
 - Colombia
+  - [x] @eramirem
   - [x] pyco (groups.google.com/forum/#!forum/pyco) by @xmnlab 
 - Costa Rica
-  - [x] PythonCostaRica (www.facebook.com/PythonCostaRica) by @xmnlab 
-- [ ] Cuba
-- [ ] Ecuador
-- [ ] El Salvador
-- [ ] Guatemala
-- [ ] Haiti
-- [ ] Honduras
+  - [x] @jeudy
+  - [x] PythonCostaRica (www.facebook.com/PythonCostaRica) by @xmnlab
+- [x] Cuba - @olemis
+- [x] Ecuador (https://groups.google.com/forum/#!forum/python-ecuador) by @xmnlab;
+- [x] El Salvador (https://www.facebook.com/python-El-Salvador-180793161982601/) by @xmnlab
+- [x] Guatemala - @tian2992
+- [x] Haiti (https://www.facebook.com/media/set/?set=a.389575744448287.90447.213178492088014&type=3 instructor contacted)
+- [x] Honduras (@mjdupnfm contacted)
 - México
+  - [x] @alexdzul
   - [x] pymt (groups.google.com/forum/#!forum/pymty) by @xmnlab 
   - [x] pythoncabal (groups.google.com/forum/#!forum/pythoncabal) by @xmnlab 
   - [x] pythonmexico (mx.groups.yahoo.com/neo/groups/pythonmexico) by @xmnlab 
@@ -24,10 +27,11 @@
   - [x] pythonicaragua (www.facebook.com/pythonicaragua) by @xmnlab 
 - Panamá
   - [x] Panamá´s Python Meetup Group (www.meetup.com/es/Panama-Python-Meetup/) by @xmnlab 
-- [ ] Paraguay
+- [x] Paraguay (https://www.facebook.com/PythonParaguay) by @xmnlab
 - Perú
   - [x] python-peru (https://groups.google.com/forum/#!forum/python-peru) by @xmnlab 
-- [ ] República Dominicana
-- [ ] Uruguay
+- [x] República Dominicana (contacto con @eneldoserrata)
+- [x] Uruguay (https://groups.google.com/forum/#!forum/pyuy) by @xmnlab
 - Venezuela
-  - [x] python-venezuela (https://groups.google.com/forum/#!forum/python-venezuela) by @xmnlab 
+  - [x] @map0logo
+  - [x] python-venezuela (https://groups.google.com/forum/#!forum/python-venezuela) by @xmnlab
