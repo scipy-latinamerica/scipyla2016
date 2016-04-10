@@ -1,11 +1,30 @@
 \documentclass[12pt]{article}
+\usepackage[paperheight=210mm,paperwidth=148mm,top=2cm,bottom=2cm,left=1cm,right=1cm]{geometry}  % A5 paper
+\usepackage{background}
+\backgroundsetup{
+scale=1,
+opacity=0.3,
+angle=0,
+color=black,
+contents={%
+\includegraphics[width=\paperwidth]{background}
+}
+}
 \begin{document}
-\input{cover.tex}
+% Cover
+\newgeometry{left=0cm, bottom=0cm, top=0cm, right=0cm}
+\thispagestyle{empty}
+\noindent  % To remove the unwanted white space.
+\includegraphics{capa}
+\NoBgThispage
+
+\clearpage
+
+\restoregeometry
 
 \newpage
 
-% This is the hack that every LaTeX user knows to create a empty page.
-\vspace*{1cm}
+\input{map.tex}
 
 \newpage
 
