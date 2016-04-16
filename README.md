@@ -2,108 +2,57 @@
 
 [![Join the chat at https://gitter.im/scipy-latinamerica/scipyla2016](https://badges.gitter.im/scipy-latinamerica/scipyla2016.svg)](https://gitter.im/scipy-latinamerica/scipyla2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-This repository store documents related with SciPy Latin America 2016.
+This repository store documents used to organize SciPy Latin America 2016.
 
-Some information are stored on
+Some pieces of information are stored on
 http://github.com/scipy-latinamerica/website-scipyla2016
-to avoid duplication since they need to be available on the website
+to avoid duplication since they need to be available on the website.
+
+Feel free to use this project as a starting point for the organization of future conferences.
 
 ## Tasks
 
-Please create issues for the task that need to be done.
+Handled as issues in this repository. Before creating a new one, please search first to avoid duplicates.
 
 ## Communication Channels
 
-* GitHub for store files and issues (https://github.com/scipy-latinamerica/scipyla2016);
+* GitHub to store files and track issues (https://github.com/scipy-latinamerica/scipyla2016);
 * Mailing list to announcements (https://groups.google.com/forum/#!forum/scipyla);
 * Twitter (https://twitter.com/scipyla);
 * Linkedin (https://www.linkedin.com/grp/home?gid=8344796);
-* Website with some information - soon (http://conf.scipyla.org);
-* Newsletters (soon);
+* Facebook (https://www.facebook.com/scipyla/);
+* Website (http://conf.scipyla.org);
 
-## Logo
+## Files Organization
 
-`logo/` store the logo of SciPyLA.
+### budget
 
-### Description
+- Financial documents
 
--   `logo.svg`
+### code_of_conduct
 
-    Original logo of SciPyLA. Used in 2015.
+- Code of conduct should be clear and visible
 
--   `logo2.svg`
+### letters
 
-    **Suggested** new logo of SciPyLA.
+- Documents used to present the conference, post on social media, ask for support, etc.
 
--   `logo2-path.svg`
+### media
 
-    **Suggested** new logo of SciPyLA
-    with text as path.
+- Images and videos related to the conference
 
--   `logo2.pdf`
+### organization
 
-    **Suggested** new logo of SciPyLA
-    as PDF.
+- Documents related to the scheduling, reservations, definition of workgroups, meetings, etc.
 
--   `logo2.png`
+### presentations
 
-    **Suggested** new logo of SciPyLA
-    as PNG.
+- Powerpoints, ipythonnotebooks, etc.
 
--   `logo2-scipyla.svg`
+### graphics_materials
 
-    **Suggested** new logo of SciPyLA 2016.
+- All the design-related documents, usually to be printed, such as brochures, logos, banners, etc.
 
--   `logo2-scipyla-path.svg`
+### venue
 
-    **Suggested** new logo of SciPyLA 2016
-    with text as path.
-
--   `logo2-scipyla.pdf`
-
-    **Suggested** new logo of SciPyLA 2016
-    as PDF.
-
--   `logo2-scipyla.png`
-
-    **Suggested** new logo of SciPyLA 2016
-    as PNG.
-
-### Style Guide
-
-#### Font
-
-The original logo uses ???.
-The **suggested** new logo uses [Open Sans](https://en.wikipedia.org/wiki/Open_Sans).
-If you have LibreOffice or TeX Live on your machine you probably have Open Sans
-installed on your machine.
-
-#### Color
-
-<table>
-
-<tr>
-<th>Color Name</th>
-<th>Hex Color Codes</th>
-<th>Sample</th>
-</tr>
-
-<tr>
-<td>Black</td>
-<td>231f20</td>
-<td style="background-color: #231f20"></td>
-</tr>
-
-<tr>
-<td>Grenn</td>
-<td>003e22</td>
-<td style="background-color: #003e22"></td>
-</tr>
-
-<tr>
-<td>Yellow</td>
-<td>f9ec31</td>
-<td style="background-color: #f9ec31"></td>
-</tr>
-
-</table>
+- All gathered information related to the venue of the conference. Hotels, activities, etc.
