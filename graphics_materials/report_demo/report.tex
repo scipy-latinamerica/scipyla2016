@@ -1,0 +1,77 @@
+\documentclass[12pt]{article}
+\usepackage[paperheight=210mm,paperwidth=148mm,top=2cm,bottom=2cm,left=1cm,right=1cm]{geometry}  % A5 paper
+\usepackage{background}
+\backgroundsetup{
+scale=1,
+opacity=0.1,
+angle=0,
+color=black,
+contents={%
+\includegraphics[width=\paperwidth]{background}
+}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[utf8]{inputenc}
+\usepackage{titlesec}
+%\usepackage[all]{hypcap}
+\usepackage{multirow}
+%\usepackage{tikz}
+\usepackage{ctable}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand{\familydefault}{\sfdefault}
+% \titleformat{\chapter}[display]
+% {\bfseries\LARGE\sffamily}{\chaptertitlename}{10pt}{\LARGE}
+% \titlespacing*{\chapter}{0pt}{10pt}{10pt}
+% \numberwithin{table}{chapter}
+
+
+\begin{document}
+% Cover
+\newgeometry{left=0cm, bottom=0cm, top=0cm, right=0cm}
+\thispagestyle{empty}
+\noindent  % To remove the unwanted white space.
+\includegraphics{capa}
+\NoBgThispage
+
+\clearpage
+
+\restoregeometry
+
+\newpage
+
+% TODO Adicionar carta do organizador.
+% A carta deve conter uma visão geral do event.
+
+Att,
+Organizador.
+
+\newpage
+
+\section*{Programa}
+
+% TODO Adicionar detalhes do programa original
+% e do que foi apresentado.
+
+\newpage
+
+\section*{Público}
+
+% TODO Adicionar detalhes sobre o público.
+% Eg número de inscritos, número de participantes,
+% distribuição de gênero, ...
+
+\newpage
+
+\section*{Repercussão}
+
+% TODO Adicionar informações sobre o que aconteceu nas redes sociais
+% e do feedback que a organização teve (oral ou escrito).
+
+\newpage
+
+\section*{Finanças}
+
+% TODO Adicionar todos os gastos da organização
+% incluindo passagens de ônibus e ou gasolina.
+
+\end{document}
