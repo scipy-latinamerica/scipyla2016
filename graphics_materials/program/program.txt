@@ -1,0 +1,45 @@
+16/05/2016 - Sala de Projeção Harry Laus (40)
+9h-12h
+	Python for geoscientist	(Filipe Fernandes, ocefpaf@gmail.com). Intermediate.
+14h-17h
+	Utilización de Vispy para visualización rápida en 3D (David Ochoa, ochoadavid@gmail.com). Intermediate
+====================================================================
+16/05/2016 - Sala de projeção Henrique da Silva Fontes (24)
+9h-12h
+	Introduction to MPI on python using mpi4py (Jeudy Blanco, jeudyx@gmail.com). Introductory
+14h-17h
+	Introduction to High-Performance Scientific Computing with PyOpenCL (Celia Cintas, cintas.celia@gmail.com). Introductory
+====================================================================
+16/05/2016 - Auditório Elke Hering (80)
+9h-12h
+	I see 42 everywhere (Fernando Masanori, fmasanori@gmail.com). Introductory
+14h-17h
+	The stupid content tracker (Tomas Aliaga, tomas.aliaga@gmail.com). Introductory
+====================================================================
+17/05/2016 - Sala de Projeção Harry Laus (40)
+
+9h-12h
+	Fit and predict your data: Introduction to Scikit-learn	(Celia Cintas, cintas.celia@gmail.com). Introductory
+14h-17h
+	scikit-image: Realce e Detecção de bordas (Darleison Rodrigues, darleison.f@gmail.com). Intermediate - Esperando resposta do instrutor
+====================================================================
+17/05/2016 - Sala de Projeção Henrique da Silva Fontes (24)
+9h-12h
+	Scientific Python applied to Petroleum Engineering - an Introduction (Igor T. Ghisi, igortg.subs@gmail.com). Introductory - Esperando resposta do instrutor
+14h-17h
+	TIME SERIES ANALYSIS USING PYTHON (Bargava Subramanian, bargava@gmail.com). Introductory - Esperando resposta do instrutor
+====================================================================
+17/05/2016 - Auditório Elke Hering (80)
+9h-12h
+	Introduction to Data Analysis using Python Data Stack (Bargava Subramanian, bargava@gmail.com). Introductory - Esperando resposta do instrutor
+14h-17h
+	Usando R com o Python - rpy2 (Arnaldo Russo, arnaldorusso@gmail.com). Intermediate - Esperando resposta do instrutor
+====================================================================
+
+
+
+
+Introduction to Machine Learning using scikit-learn	Bargava Subramanian	bargava@gmail.com	Introductory	Esperando resposta do instrutor			
+
+
+
