@@ -145,3 +145,6 @@ pythontex-files-*/
 # endfloat
 *.ttt
 *.fff
+
+.ipynb_checkpoints
+.idea
