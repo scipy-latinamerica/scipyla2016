@@ -17,7 +17,7 @@ Handled as issues in this repository. Before creating a new one, please search f
 ## Communication Channels
 
 * GitHub to store files and track issues (https://github.com/scipy-latinamerica/scipyla2016);
-* Mailing list to announcements (https://groups.google.com/forum/#!forum/scipyla);
+* Mailing list to make announcements (https://groups.google.com/forum/#!forum/scipyla);
 * Twitter (https://twitter.com/scipyla);
 * Linkedin (https://www.linkedin.com/grp/home?gid=8344796);
 * Facebook (https://www.facebook.com/scipyla/);
@@ -25,34 +25,4 @@ Handled as issues in this repository. Before creating a new one, please search f
 
 ## Files Organization
 
-### budget
-
-- Financial documents
-
-### code_of_conduct
-
-- Code of conduct should be clear and visible
-
-### letters
-
-- Documents used to present the conference, post on social media, ask for support, etc.
-
-### media
-
-- Images and videos related to the conference
-
-### organization
-
-- Documents related to the scheduling, reservations, definition of workgroups, meetings, etc.
-
-### presentations
-
-- Powerpoints, ipythonnotebooks, etc.
-
-### graphics_materials
-
-- All the design-related documents, usually to be printed, such as brochures, logos, banners, etc.
-
-### venue
-
-- All gathered information related to the venue of the conference. Hotels, activities, etc.
+Refer to the readme.md of each subfolder.
