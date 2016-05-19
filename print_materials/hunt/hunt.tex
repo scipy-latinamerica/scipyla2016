@@ -1,0 +1,155 @@
+\documentclass[12pt]{article}
+\usepackage[paperheight=210mm,paperwidth=148mm,top=2cm,bottom=2cm,left=1cm,right=1cm]{geometry}  % A5 paper
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{background}
+\usepackage[utf8]{inputenc}
+\usepackage{titlesec}
+\usepackage{multirow}
+\usepackage{tikz}
+\usepackage{ctable}
+\usepackage{booktabs}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand{\familydefault}{\sfdefault}
+% \titleformat{\chapter}[display]
+% {\bfseries\LARGE\sffamily}{\chaptertitlename}{10pt}{\LARGE}
+% \titlespacing*{\chapter}{0pt}{10pt}{10pt}
+% \numberwithin{table}{chapter}
+
+
+\begin{document}
+\thispagestyle{empty}
+% Cover
+\backgroundsetup{
+scale=1,
+angle=0,
+opacity=1,
+color=black,
+contents={%
+\includegraphics[width=\paperwidth]{capa}
+}
+}
+
+\vspace*{4cm}
+
+\begin{center}
+%  \Huge Scavenger Hunt
+\end{center}
+
+Your name: \hrulefill
+
+\begin{center}
+  \textbf{Rules}
+\end{center}
+
+\begin{enumerate}
+  \item You need to return your list until the afternoon break on May 20th.
+    The owner of the list with more \textbf{valid} signatures will win the prize.
+    In case of a tie, we will have a lottery between the owners of the lists
+    with more \textbf{valid} signatures.
+  \item Only attendees of SciPy Latin America 2016 can sign your list.
+  \item Each attendee of SciPy Latin America can sign your list at maximum once.
+  \item You can't sign your own list.
+\end{enumerate}
+
+\clearpage
+
+\restoregeometry
+
+\newpage
+
+\backgroundsetup{
+scale=1,
+opacity=0.1,
+angle=0,
+color=black,
+contents={%
+%\includegraphics[width=\paperwidth]{background}
+}
+}
+
+% Questions
+\begin{enumerate}
+  \setlength{\itemsep}{1.4em}
+    \setlength{\parskip}{1.4em}
+
+  \item \ldots attended all SciPy Latin America conferences so far.
+
+    Name: \hrulefill
+
+  \item \ldots attended to Python Brasil 2015.
+
+    Name: \hrulefill
+
+  \item \ldots attended to PyConAr 2015.
+
+    Name: \hrulefill
+
+  \item \ldots is a member of PyLadies.
+
+    Name: \hrulefill
+
+  \item \ldots is a Data Carpentry or Software Carpentry instructor.
+
+    Name: \hrulefill
+
+  \item \ldots is a member of a Steering Committee.
+
+    Name: \hrulefill
+
+  \newpage
+
+  \item \ldots wrote one or more books (which ones?).
+
+    Name: \hrulefill
+
+  \item \ldots speaks 3 or more languages (which ones?).
+
+    Name: \hrulefill
+
+  \item \ldots traveled more than 10,000km to come here.
+
+    Name: \hrulefill
+
+  \item \ldots has never been to Brazil before.
+
+    Name: \hrulefill
+
+  \item \ldots has never been to Florianópolis before.
+
+    Name: \hrulefill
+
+  \item \ldots has been in 4 or more countries from Latin America.
+
+    Name: \hrulefill
+
+  \newpage
+
+  \item \ldots had a boat trip in the last week.
+
+    Name: \hrulefill
+
+  \item \ldots rode a bicycle in the last week.
+
+    Name: \hrulefill
+
+  \item \ldots has a birthday on May.
+
+    Name: \hrulefill
+
+  \item \ldots can fluently code in 4 or more coding languages (which ones?).
+
+    Name: \hrulefill
+
+  \item \ldots is the owner of one or more packages on PyPI, the Python Package Index (which ones?).
+
+    Name: \hrulefill
+
+  \item \ldots is a Google Summer of Code mentor in 2016 (for which
+    organization?).
+
+    Name: \hrulefill
+
+
+\end{enumerate}
+
+\end{document}
