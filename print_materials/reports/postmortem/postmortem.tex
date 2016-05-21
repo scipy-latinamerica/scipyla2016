@@ -1,0 +1,92 @@
+\documentclass[12pt]{article}
+\usepackage[paperheight=210mm,paperwidth=148mm,top=2cm,bottom=2cm,left=1cm,right=1cm]{geometry}  % A5 paper
+\usepackage{background}
+\backgroundsetup{
+    scale=1,
+    opacity=0.1,
+    angle=0,
+    color=black,
+    contents={%
+    \includegraphics[width=\paperwidth]{../../assets/background}
+    }
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[utf8]{inputenc}
+\usepackage[brazil]{babel}
+\usepackage{titlesec}
+%\usepackage[all]{hypcap}
+\usepackage{multirow}
+%\usepackage{tikz}
+\usepackage{ctable}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand{\familydefault}{\sfdefault}
+% \titleformat{\chapter}[display]
+% {\bfseries\LARGE\sffamily}{\chaptertitlename}{10pt}{\LARGE}
+% \titlespacing*{\chapter}{0pt}{10pt}{10pt}
+% \numberwithin{table}{chapter}
+
+
+\begin{document}
+% Cover
+\newgeometry{left=0cm, bottom=0cm, top=0cm, right=0cm}
+\thispagestyle{empty}
+\noindent  % To remove the unwanted white space.
+\includegraphics{../../assets/capa}
+\NoBgThispage
+
+\clearpage
+
+\restoregeometry
+
+\newpage
+
+\section*{Projeto}
+
+% TODO Adicionar descrição
+
+% TODO Adicionar atores
+
+% TODO Adicionar data de início
+
+% TODO Adicionar data de encerramento
+
+\newpage
+
+\section*{Sucessos}
+
+% TODO Descrever sucessos
+% - What went right?
+% - What worked well?
+% - What was found to be particularly useful?
+% - Project highlights
+
+\newpage
+
+\section*{Falhas}
+
+% TODO Descrever falhas
+% - What went wrong?
+% - What project processes didn’t work well?
+% - What specific processes caused problems?
+% - What were the effects of key problems areas (i.e. on budget, schedule, etc.)?
+
+\newpage
+
+\section*{Aprendizados}
+
+\newpage
+
+\section*{Considerações para próximos eventos}
+
+\clearpage
+\newpage
+
+% Cover
+\newgeometry{left=0cm, bottom=0cm, top=0cm, right=0cm}
+\thispagestyle{empty}
+\noindent  % To remove the unwanted white space.
+\includegraphics{../../assets/contra-capa}
+\NoBgThispage
+
+
+\end{document}
