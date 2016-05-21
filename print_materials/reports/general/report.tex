@@ -1,0 +1,76 @@
+\documentclass[12pt]{article}
+\usepackage[paperheight=210mm,paperwidth=148mm,top=2cm,bottom=2cm,left=1cm,right=1cm]{geometry}  % A5 paper
+\usepackage{background}
+\backgroundsetup{
+    scale=1,
+    opacity=0.1,
+    angle=0,
+    color=black,
+    contents={%
+    \includegraphics[width=\paperwidth]{../../assets/background}
+    }
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[utf8]{inputenc}
+\usepackage[brazil]{babel}
+\usepackage{titlesec}
+%\usepackage[all]{hypcap}
+\usepackage{multirow}
+%\usepackage{tikz}
+\usepackage{ctable}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand{\familydefault}{\sfdefault}
+% \titleformat{\chapter}[display]
+% {\bfseries\LARGE\sffamily}{\chaptertitlename}{10pt}{\LARGE}
+% \titlespacing*{\chapter}{0pt}{10pt}{10pt}
+% \numberwithin{table}{chapter}
+
+
+\begin{document}
+% Cover
+\newgeometry{left=0cm, bottom=0cm, top=0cm, right=0cm}
+\thispagestyle{empty}
+\noindent  % To remove the unwanted white space.
+\includegraphics{../../assets/capa}
+\NoBgThispage
+
+\clearpage
+
+\restoregeometry
+
+\newpage
+
+Olá,
+
+Att, \\
+\indent Ivan Ogasawara \\
+\indent Presidente da SciPy Latin America 2016
+
+
+\newpage
+
+\section*{Programa}
+
+\newpage
+
+\section*{Público}
+
+\newpage
+
+\section*{Repercussão}
+
+\newpage
+
+\section*{Finanças}
+
+\newpage
+
+% Cover
+\newgeometry{left=0cm, bottom=0cm, top=0cm, right=0cm}
+\thispagestyle{empty}
+\noindent  % To remove the unwanted white space.
+\includegraphics{../../assets/contra-capa}
+\NoBgThispage
+
+
+\end{document}
