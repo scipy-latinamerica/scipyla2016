@@ -3,7 +3,6 @@
 \usepackage{background}
 \backgroundsetup{
     scale=1,
-    opacity=0.1,
     angle=0,
     color=black,
     contents={%
@@ -29,17 +28,27 @@
 
 \begin{document}
 % Cover
-\newgeometry{left=0cm, bottom=0cm, top=0cm, right=0cm}
 \thispagestyle{empty}
-\noindent  % To remove the unwanted white space.
-\includegraphics{../../assets/capa}
-\NoBgThispage
-
-\clearpage
-
-\restoregeometry
+\backgroundsetup{
+    opacity=1.0,
+contents={\includegraphics{../../assets/capa}}
+}
+\vspace*{12cm}
+\begin{Huge}
+  Postmortem
+\end{Huge}
+%\newgeometry{left=0cm, bottom=0cm, top=0cm, right=0cm}
+%\thispagestyle{empty}
+%\noindent  % To remove the unwanted white space.
 
 \newpage
+
+\backgroundsetup{
+    opacity=0.1,
+contents={
+    \includegraphics[width=\paperwidth]{../../assets/background}
+    }
+    }
 
 \section*{Projeto}
 
@@ -346,11 +355,11 @@
 \newpage
 
 % Cover
-\newgeometry{left=0cm, bottom=0cm, top=0cm, right=0cm}
 \thispagestyle{empty}
-\noindent  % To remove the unwanted white space.
-\includegraphics{../../assets/contra-capa}
-\NoBgThispage
-
+\backgroundsetup{
+    opacity=1.0,
+contents={\includegraphics{../../assets/contra-capa}}
+}
+\phantom{1}  % Necessário para imprimir o fundo.
 
 \end{document}
