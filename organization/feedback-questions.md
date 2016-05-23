@@ -54,3 +54,17 @@ Evento
 ### Pergunta 3
 **Título**: Você ficou satisfeito com a organização do evento?
 **Descrição**: Qual sua opinião sobre a equipe de organização, desde o momento que ficou sabendo do evento até as atividades durante o evento?
+
+Comunidade
+----------
+### Pergunta 1
+**Título**: O que você acha da comunidade SciPy Latin America?
+**Descrição**: Qual a sua opinião da comunidade como um todo?
+
+### Pergunta 2
+**Título**: Você ficou satisfeito com o tema de diversidade na comunidade?
+**Descrição**: O que poderia melhorar sobre o tema de diversidade na comunidade?
+
+### Pergunta 3
+**Título**: A organização facilitou a participação da comunidade ao evento?
+**Descrição**: Qual sua opinião sobre as condições para participar do evento (Questões econômicas, sociais, etc)? O que pode melhorar?
