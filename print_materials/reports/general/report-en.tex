@@ -1,0 +1,451 @@
+\documentclass[12pt]{article}
+\usepackage[paperheight=210mm,paperwidth=148mm,top=2cm,bottom=2cm,left=1cm,right=1cm]{geometry}  % A5 paper
+\usepackage{background}
+\backgroundsetup{
+    scale=1,
+    angle=0,
+    color=black,
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[utf8]{inputenc}
+\usepackage[brazil]{babel}
+\usepackage{titlesec}
+%\usepackage[all]{hypcap}
+\usepackage{multirow}
+%\usepackage{tikz}
+\usepackage{ctable}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand{\familydefault}{\sfdefault}
+% \titleformat{\chapter}[display]
+% {\bfseries\LARGE\sffamily}{\chaptertitlename}{10pt}{\LARGE}
+% \titlespacing*{\chapter}{0pt}{10pt}{10pt}
+% \numberwithin{table}{chapter}
+
+
+\begin{document}
+% Cover
+\thispagestyle{empty}
+\backgroundsetup{
+    opacity=1.0,
+contents={\includegraphics{../../assets/capa}}
+}
+\vspace*{12cm}
+\begin{Huge}
+  Report
+\end{Huge}
+
+\newpage
+
+\backgroundsetup{
+    opacity=0.1,
+contents={\includegraphics{../../assets/background}}
+}
+
+Hi,
+
+between May 16th, 2016 and May 20th, 2016 we organized the 4th SciPy Latin
+America Conference at the Federal University of Santa Catarina.
+The objectives of the conference were promotion of science,
+adoption of programming as first class tool on science,
+and use of Python as the standard programming language in science.
+In this edition we had astronomical activities for kids,
+a Software Carpentry workshop,
+12 tutorials, and 34 talks (18 were lightning talks).
+If we include the social events we had more than 60 hours of activities over the
+five days of SciPy Latin America 2016.
+
+More than 70 people attended the conference including
+high school students,
+undergraduate students,
+graduate students,
+early career researchers,
+professors,
+software developers,
+and 
+enthusiasts.
+
+Thanks very much to everyone that got involved with SciPy Latin America 2016,
+specially, our sponsors and the local community.
+
+\indent Ivan Ogasawara \\
+\indent Chair of SciPy Latin America 2016
+
+
+\clearpage
+\newpage
+
+\section*{Programme}
+
+SciPy Latin America 2016 was hosted in Florianópolis, Santa Catarina, Brasil.
+Florianópolis is located in a island on the south of Brazil.
+
+\begin{figure}[!htb]
+\center
+\includegraphics[height=.3\textheight]{venue-beach.jpg}
+\caption{Florianópolis's beach.}
+\end{figure}
+
+\subsection*{Workshop}
+
+Software Carpentry workshop happened at
+Centro de Informática e Automação
+do Estado de Santa Catarina S.A. on May 16th and 17th.
+
+\begin{figure}[!htb]
+\center
+\includegraphics[height=.3\textheight]{swc-francisco.jpg}
+\caption{Francisco Palm teaching R during Software Carpentry workshop.}
+\end{figure}
+
+The instructors on Software Carpentry workshop were Raniere Silva and Francisco
+Palm, both certified instructors.
+The workshop covered the UNIX terminal, version control with Git,
+GitLab for collaboration and programming with R.
+
+\begin{figure}[!htb]
+\center
+\includegraphics[height=.3\textheight]{swc-students.jpg}
+\caption{Learners during Software Carpentry working to solve one of the
+challenges.}
+\end{figure}
+
+Only seven of the twenty registered learners showed up for the workshop
+and just a few attended the hole workshop because of class at the same time
+or others tutorials from the conference.
+
+Learners provide positive feedback at the end of the workshop.
+They also complained that the Federal University of Santa Catarina
+don't provide more workshops like Software Carpentry.
+
+\subsection*{Tutorials}
+
+During May 16th and 17th we had the tutorials, each 3 hours long.
+The tutorials were organized in three parallel tracks.
+
+\begin{figure}[!htb]
+\center
+\includegraphics[height=.3\textheight]{tutorial-latex.jpg}
+\caption{Melissa Mendonça in her tutorial about Python and LaTeX.}
+\end{figure}
+
+The intermediate and advanced tutorials covered
+data science,
+high performance computing (HPC),
+data visualisation, and
+engineering.
+The novice track covered introduction to Python, Git and LaTeX.
+
+\begin{figure}[!htb]
+\center
+\includegraphics[height=.3\textheight]{tutorial-pyopencl.jpg}
+\caption{Celia Cintas teaching PyOpenCL.}
+\end{figure}
+
+47 people attended the conference during the tutorials days.
+
+\begin{figure}[!htb]
+\center
+\includegraphics[height=.3\textheight]{tutorial-rpy.jpg}
+\caption{Learners during the tutorial about rpy2.}
+\end{figure}
+
+\subsection*{Palestras}
+
+Durante o evento ocorreram 16 palestras e 18 palestras relâmpagos.
+
+\begin{figure}[!htb]
+\center
+\includegraphics[height=.3\textheight]{talks-full.jpg}
+\caption{Auditório durante as palestras.}
+\end{figure}
+
+As palestras cobriram vários domínios da ciência, incluindo
+oceanografia,
+genética,
+fármacos,
+matemática,
+estatística.
+
+\begin{figure}[!htb]
+\center
+\includegraphics[height=.3\textheight]{talks-drugs.jpg}
+\caption{Mário Ségio de Queiroz falando sobre geração de fármacos.}
+\end{figure}
+
+Também tivemos palestras técnicas relacionadas com ferramentas utilizadas em
+computação científica. Dentre essas palestras destacaram-se ``The numba
+library'' de Edison Gustavo Muenz, ``Conda-forge and the future of the
+Scientific Python package'' de Filipe Fernandes e ``Interactive Data
+Visualization in the Browser with Bokeh'' de Bryan Van de Ven.
+
+\begin{figure}[!htb]
+\center
+\includegraphics[height=.3\textheight]{talks-kaggle.jpg}
+\caption{Emilio Simoni falando sobre Kaggle.}
+\end{figure}
+
+Além das palestras científicas e técnicas também ocorreram palestras voltadas
+ao desenvolvimento de comunidades. Destacaram-se ``import community'' por
+Fernando Masanori e ``Estudo de caso: Software Sustainability Institute'' por
+Raniere Silva.
+
+\begin{figure}[!htb]
+\center
+\includegraphics[height=.3\textheight]{talks-pyladies.jpg}
+\caption{Fernando Masanori e seu slide ``I Love PyLadies''.}
+\end{figure}
+
+Nas palestras relâmpagos vários participantes proferiram suas primeiras
+palestras. Esperamos revê-los novamente na Python Brasil 2016, SciPy Latin
+America 2017 e outras conferências ao redor do mundo.
+
+\begin{figure}[!htb]
+\center
+\includegraphics[height=.3\textheight]{talks-rna.jpg}
+\caption{Daniella em sua apresentação sobre sequências e RNA.}
+\end{figure}
+
+Vários participantes disseram que a coleção de palestras estava excelente.
+
+\subsection*{Trilha Jovem Cientista}
+
+
+Durante o evento ocorreram 16 palestras e 18 palestras relâmpagos.
+
+\subsection*{Eventos sociais}
+
+Durante o SciPy Latin America ocorreram vários eventos sociais para os
+participantes. Durante todo o evento estiveram disponíveis aos participantes uma
+coleção de chás e chocolates que foram complementados com algumas frutas e doces
+locais.
+
+\begin{figure}[!htb]
+\center
+\includegraphics[height=.3\textheight]{social-break.jpg}
+\caption{Recepção do auditório onde ocorreram as palestras.}
+\end{figure}
+
+Florianópolis é famosa pelas várias cervejarias artesanais locais.
+Os participantes visitaram algumas dessas cervejarias durante os happy hours.
+Todas os lugares escolhidos para os happy hours ofereciam opções para
+vegetarianos e estes gostaram bastante das opções existentes nos cardápios.
+
+\begin{figure}[!htb]
+\center
+\includegraphics[height=.3\textheight]{social-viking.jpg}
+\caption{Participantes no Viking (bar).}
+\end{figure}
+
+Um dos bares que visitamos tem paredões para escalada
+e alguns dos participantes se aventuraram ao praticar bouldering.
+Esse bar possui um ambiente bem familiar e descontraído
+o que ajudou os participantes a aproveitarem a noite.
+
+\begin{figure}[!htb]
+\center
+\includegraphics[height=.3\textheight]{python-escala.jpg}
+\caption{Participante praticando bouldering.}
+\end{figure}
+
+Na noite do dia 19, o Observatório da Universidade Federal de Santa Catarina
+promoveu uma visita guiada ao seu espaço e observação do céu. Embora estivesse frio, todos os participantes gostaram de ver a Lua, Marte, Júpiter e os conglomerados de estrelas por meio do telescópio cuja abertura é de 30 cm. Além da observação, foi possível conhecer o programa de robotização de telescópios, o chimera que é todo escrito em Python. Os astrônomos que participavam da conferência adoraram a visita guiada.
+
+
+\begin{figure}[!htb]
+\center
+\includegraphics[height=.3\textheight]{social-astro.jpg}
+\caption{Participantes na visita guiada ao Observatório.}
+\end{figure}
+
+Alguns participantes levaram seus filhos para participar da visita guiada ao
+Observatório.
+
+\begin{figure}[!htb]
+\center
+\includegraphics[height=.3\textheight]{social-family.jpg}
+\caption{Pai e filho durante a visita guiada ao Observatório.}
+\end{figure}
+
+\clearpage
+\newpage
+
+\section*{Público}
+
+\begin{figure}[!htb]
+\center
+\includegraphics[height=.3\textheight]{group.jpg}
+\caption{Participantes do SciPy Latin America 2016.}
+\end{figure}
+
+O SciPy Latin America 2016 recebeu mais de 160 inscritos paras as palestras e
+uma média de 20 inscritos em cada um dos tutoriais que foram oferecidos.
+Nas palestras tivemos um público médio de 50 pessoas. Nos tutoriais o público
+variou bastante.
+
+As inscrições nos tutoriais e palestras eram gratuitos. Embora a taxa de
+ausentes seja alta ela está dentro de valores relatados por outros eventos
+similares.
+
+Para os próximos eventos estamos planejando cobrar inscrições com o objetivo de
+aumentar a presença.
+
+O número de mulheres no evento foi de 10\%. Uma taxa baixa mas que está na média
+para eventos do tipo.
+
+\clearpage
+\newpage
+
+\section*{Repercussão}
+
+No Brasil, o uso do Twitter e comentários sobre o evento nas demais redes
+sociais como Facebook e Instagram não é muito comum. Mesmo assim tivemos alguns
+comentários positivos no Twitter.
+
+\begin{figure}[!htb]
+\center
+\includegraphics[height=.3\textheight]{tweet-kudos.jpg}
+\caption{Usuário de Python na Espanha parabenizando o SciPy Latin America 2016.}
+\end{figure}
+
+Aqueles que acompanharam a hashtag \#SciPyLA2016 no Twitter ou a página do
+evento no Facebook foram informados continuamente sobre as palestras e demais
+atividades que estavam ocorrendo no evento.
+
+\begin{figure}[!htb]
+\center
+\includegraphics[height=.3\textheight]{tweet-recepcao.jpg}
+\caption{Participante dizendo que a recepção do SciPy Latin America 2016 está
+bonita.}
+\end{figure}
+
+\begin{figure}[!htb]
+\center
+\includegraphics[height=.3\textheight]{tweet-diversidade.jpg}
+\caption{Participante dizendo estar feliz pelo SciPy Latin America 2016 falar
+sobre diversidade.}
+\end{figure}
+
+\clearpage
+\newpage
+
+\section*{Feedback}
+
+26 participantes responderam o formulário de feedback que circulamos após o
+evento. Desses 26 participantes, 24 disseram que ficaram satisfeitos ou muito
+satisfeitos com o evento e 20 disseram que ficaram satisfeitos ou muito
+satisfeitos com a diversidade de participantes. Alguns incluíram frases como
+``Os organizadores foram extremamente bons anfitriões. Isso é algo muito bacana
+para nos fazer querer voltar.''
+
+No formulário perguntamos ``O que você mais gostou?'' e em mais da metade das
+respostas foram mencionadas a comunidade. Um participante escreveu ``Fiquei
+surpreso com a quantidade de palestrantes de áreas além da computação como
+biologia, geofísica, matemática e oceanografia. Acredito que mais abrangente for
+os temas, mais valor será agregado ao evento.'' enquanto outro afirmou ser
+``um evento latino americano de fato'' devido à presença de participantes de
+vários países latino-americanos.
+
+Também perguntamos ``O que você menos gostou?''. Pelo menos cinco respostas
+mencionaram o grande número de lugares vazios nos auditórios e salas embora
+os ingressos tenha esgotado muito rapidamente. Um participante escreveu em sua
+resposta que ``gostaria que mais pessoas tivessem participado pois o evento foi
+muito bem organizado e merecia um público maior.'' Também foi mencionado
+problemas para localizar os auditórios e salas. Uma das respostas continha
+``faltou sinalização dentro do campus para direcionar os participantes. ''
+
+Para as próximas edições sugerimos a cobrança pelos ingressos e o aluguel de
+espaço com melhor sinalização como ações para evitar os problemas apontados
+pelos participantes.
+
+Pedimos sugestões de como melhorar o incentivo à diversidade nos eventos
+futuros. Em uma das respostas foi mencionado que ``havia maior diversidade em nacionalidade do que em outras
+questões sociais.'' Infelizmente tivemos dificuldades em atrair a participação
+de algumas minorias devido à agenda destas e/ou de seus representantes com quem
+estávamos em contato. Três repostas pediram uma mesa redonda sobre diversidade
+que estava nos nossos planos iniciais mas, infelizmente, não fomos capazes de
+compor a mesa pelo motivo mencionado a pouco. Uma das repostas pediu um almoço
+voltado à diversidade que será investigado para a edição de 2017.
+
+\clearpage
+\newpage
+
+\section*{Resultados}
+
+Como resultado direto do evento tivemos a capacitação de mais pesquisadores em
+ferramentas computacionais como Python, R, Bash, Git, \ldots e uma difusão da
+linguagem Python na região de Florianópolis.
+
+Também ouvimos várias conversas sobre a colaboração entre participantes
+para a realização de mais tutoriais e workshops tanto em Florianópolis
+como em outras regiões do Brasil e América Latina.
+
+\clearpage
+\newpage
+
+\section*{Finanças}
+
+A entrada e saída de divisas relacionadas com à organização do SciPy Latin
+America 2016 estão descritas nas tabelas~\ref{tab:entrada}~e~\ref{tab:saida}.
+
+\begin{table}[!htb]
+  \center
+  \caption{Entrada} \label{tab:entrada}
+  \begin{tabular}{m{9cm}@{} @{}r}
+     \toprule
+     \textbf{Descrição} & \textbf{Valor (US\$)} \\
+     \midrule
+     Patrocínios & 7.000,00 \\
+     Doações (participantes) & 1.000,00 \\
+     \midrule
+     \textbf{Total} & 8.000,00 \\
+     \bottomrule
+   \end{tabular}
+\end{table}
+
+\begin{table}[!htb]
+  \center
+  \caption{Saída} \label{tab:saida}
+  \begin{tabular}{m{9cm}@{} @{}r}
+     \toprule
+     \textbf{Descrição} & \textbf{Valor (US\$)} \\
+     \midrule
+     Passagens & 1.500,00 \\
+     Auxílio financeiro & 1.500,00 \\
+     Material impresso & 700,00 \\
+     Camisas & 700,00 \\
+     Alimentos para intervalos & 300,00 \\
+     Taxas administrativas da FAPEU & 1.300,00 \\
+     Reserva para Python Brasil & 2.000,00 \\
+     \midrule
+     \textbf{Total} & 8.000,00 \\
+     \bottomrule
+   \end{tabular}
+\end{table}
+
+\clearpage
+\newpage
+
+\section*{Próxima edição}
+
+Cuba foi eleita como sede para a próxima edição do SciPy Latin America em 2017.
+
+\begin{figure}[!htb]
+\center
+\includegraphics[height=.3\textheight]{2017.jpg}
+\caption{Ivan Ogasawara após o anúncio da sede do SciPy Latin America 2017.}
+\end{figure}
+
+O organizador da SciPy Latin America 2017 será Olemis Lang.
+
+\clearpage
+\newpage
+
+% Cover
+\thispagestyle{empty}
+\backgroundsetup{
+    opacity=1.0,
+contents={\includegraphics{../../assets/contra-capa}}
+}
+\phantom{1}  % Necessário para imprimir o fundo.
+
+\end{document}
